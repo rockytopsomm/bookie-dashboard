@@ -1,0 +1,284 @@
+{
+ "updated": "2026-10-15T23:34:53-04:00",
+ "date": "2026-10-15",
+ "bets": [
+  {
+   "bet_id": 1,
+   "selection": "R.Harvey rush_yds Under 14.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "lost",
+   "legs": [
+    {
+     "label": "R.Harvey Under 14.5 rush_yds",
+     "cur": 25.0,
+     "line": 14.5,
+     "side": "Under",
+     "pace": 25.0,
+     "status": "lost"
+    }
+   ]
+  },
+  {
+   "bet_id": 2,
+   "selection": "B.Nix rush_yds Under 14.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "won",
+   "legs": [
+    {
+     "label": "B.Nix Under 14.5 rush_yds",
+     "cur": 2.0,
+     "line": 14.5,
+     "side": "Under",
+     "pace": 2.0,
+     "status": "won"
+    }
+   ]
+  },
+  {
+   "bet_id": 3,
+   "selection": "B.Nix pass_yds Under 197.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "won",
+   "legs": [
+    {
+     "label": "B.Nix Under 197.5 pass_yds",
+     "cur": 107.0,
+     "line": 197.5,
+     "side": "Under",
+     "pace": 107.0,
+     "status": "won"
+    }
+   ]
+  },
+  {
+   "bet_id": 4,
+   "selection": "B.Nix pass_yds Over 197.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "lost",
+   "legs": [
+    {
+     "label": "B.Nix Over 197.5 pass_yds",
+     "cur": 107.0,
+     "line": 197.5,
+     "side": "Over",
+     "pace": 107.0,
+     "status": "lost"
+    }
+   ]
+  },
+  {
+   "bet_id": 5,
+   "selection": "SGP5: Nix U197.5 pass / Wilson U66.5 rush / Waddle U47.5 rec / Sutton U31.5 rec / Seahawks ML",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "lost",
+   "legs": [
+    {
+     "label": "B.Nix Under 197.5 pass_yds",
+     "cur": 107.0,
+     "line": 197.5,
+     "side": "Under",
+     "pace": 107.0,
+     "status": "won"
+    },
+    {
+     "label": "E.Wilson Under 66.5 rush_yds",
+     "cur": 52.0,
+     "line": 66.5,
+     "side": "Under",
+     "pace": 52.0,
+     "status": "won"
+    },
+    {
+     "label": "J.Waddle Under 47.5 rec_yds",
+     "cur": 24.0,
+     "line": 47.5,
+     "side": "Under",
+     "pace": 24.0,
+     "status": "won"
+    },
+    {
+     "label": "C.Sutton Under 31.5 rec_yds",
+     "cur": 19.0,
+     "line": 31.5,
+     "side": "Under",
+     "pace": 19.0,
+     "status": "won"
+    },
+    {
+     "label": "Seattle Seahawks ML",
+     "cur": -3,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "lost"
+    }
+   ]
+  },
+  {
+   "bet_id": 6,
+   "selection": "R.Shaheed rush_yds Under 2.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "won",
+   "legs": [
+    {
+     "label": "R.Shaheed Under 2.5 rush_yds",
+     "cur": 2.0,
+     "line": 2.5,
+     "side": "Under",
+     "pace": 2.0,
+     "status": "won"
+    }
+   ]
+  },
+  {
+   "bet_id": 7,
+   "selection": "T.Franklin rec_yds Under 17.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "won",
+   "legs": [
+    {
+     "label": "T.Franklin Under 17.5 rec_yds",
+     "cur": 2.0,
+     "line": 17.5,
+     "side": "Under",
+     "pace": 2.0,
+     "status": "won"
+    }
+   ]
+  },
+  {
+   "bet_id": 8,
+   "selection": "M.Mims rec_yds Under 11.5",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "lost",
+   "legs": [
+    {
+     "label": "M.Mims Under 11.5 rec_yds",
+     "cur": 13.0,
+     "line": 11.5,
+     "side": "Under",
+     "pace": 13.0,
+     "status": "lost"
+    }
+   ]
+  },
+  {
+   "bet_id": 9,
+   "selection": "SGP4: Shaheed U2.5 rush / Mims U11.5 rec / Franklin U17.5 rec / Nix U197.5 pass",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "lost",
+   "legs": [
+    {
+     "label": "R.Shaheed Under 2.5 rush_yds",
+     "cur": 2.0,
+     "line": 2.5,
+     "side": "Under",
+     "pace": 2.0,
+     "status": "won"
+    },
+    {
+     "label": "M.Mims Under 11.5 rec_yds",
+     "cur": 13.0,
+     "line": 11.5,
+     "side": "Under",
+     "pace": 13.0,
+     "status": "lost"
+    },
+    {
+     "label": "T.Franklin Under 17.5 rec_yds",
+     "cur": 2.0,
+     "line": 17.5,
+     "side": "Under",
+     "pace": 2.0,
+     "status": "won"
+    },
+    {
+     "label": "B.Nix Under 197.5 pass_yds",
+     "cur": 107.0,
+     "line": 197.5,
+     "side": "Under",
+     "pace": 107.0,
+     "status": "won"
+    }
+   ]
+  },
+  {
+   "bet_id": 11,
+   "selection": "SGP5: Humphrey U0.5 rec / Franklin U1.5 rec / JSN anytime TD / SEA ML / Nix U197.5 pass",
+   "game": "Seattle Seahawks @ Denver Broncos",
+   "score": "SEA 14 \u2013 DEN 17",
+   "clock": "Final/OT",
+   "elapsed": 1.0,
+   "status": "lost",
+   "legs": [
+    {
+     "label": "L.Humphrey Under 0.5 receptions",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Under",
+     "pace": 0.0,
+     "status": "won"
+    },
+    {
+     "label": "T.Franklin Under 1.5 receptions",
+     "cur": 1.0,
+     "line": 1.5,
+     "side": "Under",
+     "pace": 1.0,
+     "status": "won"
+    },
+    {
+     "label": "J.Smith-Njigba Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": 0.0,
+     "status": "lost"
+    },
+    {
+     "label": "Seattle Seahawks ML",
+     "cur": -3,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "lost"
+    },
+    {
+     "label": "B.Nix Under 197.5 pass_yds",
+     "cur": 107.0,
+     "line": 197.5,
+     "side": "Under",
+     "pace": 107.0,
+     "status": "won"
+    }
+   ]
+  }
+ ]
+}
