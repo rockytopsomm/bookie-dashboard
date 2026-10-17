@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-17T16:17:26-04:00",
+ "updated": "2026-10-17T16:24:31-04:00",
  "date": "2026-10-17",
  "bets": [
   {
    "bet_id": 13,
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
-   "score": "ALA 0 \u2013 TENN 6",
-   "clock": "5:21 - 1st",
-   "elapsed": 0.161,
+   "score": "ALA 0 \u2013 TENN 9",
+   "clock": "3:48 - 1st",
+   "elapsed": 0.187,
    "status": "on",
    "legs": [
     {
      "label": "Tennessee Volunteers +7.5",
-     "cur": 6,
+     "cur": 9,
      "line": 7.5,
      "side": "spread",
      "pace": null,
@@ -101,18 +101,18 @@
    "bet_id": 20,
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
-   "score": "ASU 0 \u2013 TTU 14",
-   "clock": "4:09 - 1st",
-   "elapsed": 0.181,
-   "status": "off",
+   "score": "ASU 0 \u2013 TTU 21",
+   "clock": "3:15 - 1st",
+   "elapsed": 0.196,
+   "status": "on",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
-     "cur": 14,
+     "cur": 21,
      "line": -15.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "on"
     }
    ]
   },
@@ -135,15 +135,15 @@
     },
     {
      "label": "Texas Tech -15.5",
-     "cur": 14,
+     "cur": 21,
      "line": -15.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "on"
     },
     {
      "label": "Georgia Tech +9.5",
-     "cur": -14,
+     "cur": -11,
      "line": 9.5,
      "side": "spread",
      "pace": null,
@@ -180,8 +180,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 0",
-   "clock": "14:49 - 2nd",
-   "elapsed": 0.253,
+   "clock": "13:14 - 2nd",
+   "elapsed": 0.279,
    "status": "on",
    "legs": [
     {
@@ -198,14 +198,14 @@
    "bet_id": 23,
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
-   "score": "GT 0 \u2013 VT 14",
-   "clock": "12:33 - 2nd",
-   "elapsed": 0.291,
+   "score": "GT 3 \u2013 VT 14",
+   "clock": "10:42 - 2nd",
+   "elapsed": 0.322,
    "status": "off",
    "legs": [
     {
      "label": "Georgia Tech Yellow Jackets ML",
-     "cur": -14,
+     "cur": -11,
      "line": 0,
      "side": "ML",
      "pace": null,
@@ -275,8 +275,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 7",
-   "clock": "End of 1st",
-   "elapsed": 0.25,
+   "clock": "13:45 - 2nd",
+   "elapsed": 0.271,
    "status": "off",
    "legs": [
     {
