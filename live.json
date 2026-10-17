@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:12:33-04:00",
+ "updated": "2026-10-17T17:19:55-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 7 \u2013 TENN 12",
-   "clock": "3:12 - 2nd",
-   "elapsed": 0.447,
+   "clock": "1:53 - 2nd",
+   "elapsed": 0.469,
    "status": "on",
    "legs": [
     {
@@ -83,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 10 \u2013 TTU 33",
-   "clock": "1:57 - 2nd",
-   "elapsed": 0.468,
+   "clock": "0:55 - 2nd",
+   "elapsed": 0.485,
    "status": "on",
    "legs": [
     {
@@ -124,7 +124,7 @@
     },
     {
      "label": "Georgia Tech +9.5",
-     "cur": -21,
+     "cur": -14,
      "line": 9.5,
      "side": "spread",
      "pace": null,
@@ -179,14 +179,14 @@
    "bet_id": 23,
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
-   "score": "GT 3 \u2013 VT 24",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "score": "GT 10 \u2013 VT 24",
+   "clock": "14:12 - 3rd",
+   "elapsed": 0.513,
    "status": "off",
    "legs": [
     {
      "label": "Georgia Tech Yellow Jackets ML",
-     "cur": -21,
+     "cur": -14,
      "line": 0,
      "side": "ML",
      "pace": null,
