@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T16:32:01-04:00",
+ "updated": "2026-10-17T16:36:49-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 0 \u2013 TENN 9",
-   "clock": "End of 1st",
-   "elapsed": 0.25,
+   "clock": "14:21 - 2nd",
+   "elapsed": 0.261,
    "status": "on",
    "legs": [
     {
@@ -37,25 +37,6 @@
      "side": "spread",
      "pace": null,
      "status": "pre"
-    }
-   ]
-  },
-  {
-   "bet_id": 17,
-   "selection": "Ohio State Buckeyes -3.5",
-   "game": "Ohio State Buckeyes @ Indiana Hoosiers",
-   "score": "OSU 19 \u2013 IU 15",
-   "clock": "Final",
-   "elapsed": 1.0,
-   "status": "won",
-   "legs": [
-    {
-     "label": "Ohio State Buckeyes -3.5",
-     "cur": 4,
-     "line": -3.5,
-     "side": "spread",
-     "pace": null,
-     "status": "won"
     }
    ]
   },
@@ -102,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 7 \u2013 TTU 21",
-   "clock": "15:00 - 1st",
-   "elapsed": 0.0,
+   "clock": "13:45 - 2nd",
+   "elapsed": 0.271,
    "status": "off",
    "legs": [
     {
@@ -180,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 0",
-   "clock": "10:04 - 2nd",
-   "elapsed": 0.332,
+   "clock": "8:05 - 2nd",
+   "elapsed": 0.365,
    "status": "on",
    "legs": [
     {
@@ -199,8 +180,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 3 \u2013 VT 21",
-   "clock": "7:49 - 2nd",
-   "elapsed": 0.37,
+   "clock": "7:30 - 2nd",
+   "elapsed": 0.375,
    "status": "off",
    "legs": [
     {
@@ -275,8 +256,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 7",
-   "clock": "11:33 - 2nd",
-   "elapsed": 0.307,
+   "clock": "10:20 - 2nd",
+   "elapsed": 0.328,
    "status": "off",
    "legs": [
     {
