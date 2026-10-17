@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-17T18:08:29-04:00",
+ "updated": "2026-10-17T18:12:41-04:00",
  "date": "2026-10-17",
  "bets": [
   {
    "bet_id": 13,
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
-   "score": "ALA 10 \u2013 TENN 18",
+   "score": "ALA 10 \u2013 TENN 19",
    "clock": "5:05 - 3rd",
    "elapsed": 0.665,
    "status": "on",
    "legs": [
     {
      "label": "Tennessee Volunteers +7.5",
-     "cur": 8,
+     "cur": 9,
      "line": 7.5,
      "side": "spread",
      "pace": null,
@@ -83,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 17 \u2013 TTU 43",
-   "clock": "8:42 - 3rd",
-   "elapsed": 0.605,
+   "clock": "7:48 - 3rd",
+   "elapsed": 0.62,
    "status": "on",
    "legs": [
     {
@@ -161,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 14",
-   "clock": "2:14 - 3rd",
-   "elapsed": 0.713,
+   "clock": "1:31 - 3rd",
+   "elapsed": 0.725,
    "status": "off",
    "legs": [
     {
@@ -180,8 +180,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 17 \u2013 VT 34",
-   "clock": "11:13 - 4th",
-   "elapsed": 0.813,
+   "clock": "10:13 - 4th",
+   "elapsed": 0.83,
    "status": "off",
    "legs": [
     {
@@ -237,8 +237,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 0 \u2013 ORST 0",
-   "clock": "14:56 - 1st",
-   "elapsed": 0.001,
+   "clock": "13:38 - 1st",
+   "elapsed": 0.023,
    "status": "off",
    "legs": [
     {
@@ -256,8 +256,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 21",
-   "clock": "1:56 - 3rd",
-   "elapsed": 0.718,
+   "clock": "0:12 - 3rd",
+   "elapsed": 0.747,
    "status": "off",
    "legs": [
     {
