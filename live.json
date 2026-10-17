@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:56:38-04:00",
+ "updated": "2026-10-17T16:01:39-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 0 \u2013 TENN 3",
-   "clock": "10:05 - 1st",
-   "elapsed": 0.082,
+   "clock": "9:48 - 1st",
+   "elapsed": 0.087,
    "status": "on",
    "legs": [
     {
@@ -101,14 +101,14 @@
    "bet_id": 20,
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
-   "score": "ASU 0 \u2013 TTU 6",
+   "score": "ASU 0 \u2013 TTU 7",
    "clock": "7:48 - 1st",
    "elapsed": 0.12,
    "status": "off",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
-     "cur": 6,
+     "cur": 7,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -135,7 +135,7 @@
     },
     {
      "label": "Texas Tech -15.5",
-     "cur": 6,
+     "cur": 7,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -179,14 +179,14 @@
    "bet_id": 22,
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
-   "score": "PSU 0 \u2013 MICH 0",
-   "clock": "6:36 - 1st",
-   "elapsed": 0.14,
+   "score": "PSU 3 \u2013 MICH 0",
+   "clock": "5:54 - 1st",
+   "elapsed": 0.152,
    "status": "on",
    "legs": [
     {
      "label": "Penn State Nittany Lions +6.5",
-     "cur": 0,
+     "cur": 3,
      "line": 6.5,
      "side": "spread",
      "pace": null,
@@ -199,8 +199,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 0 \u2013 VT 14",
-   "clock": "6:10 - 1st",
-   "elapsed": 0.147,
+   "clock": "5:19 - 1st",
+   "elapsed": 0.161,
    "status": "off",
    "legs": [
     {
@@ -274,18 +274,18 @@
    "bet_id": 27,
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
-   "score": "MIZ 3 \u2013 MISS 0",
-   "clock": "6:39 - 1st",
-   "elapsed": 0.139,
-   "status": "on",
+   "score": "MIZ 3 \u2013 MISS 7",
+   "clock": "5:42 - 1st",
+   "elapsed": 0.155,
+   "status": "off",
    "legs": [
     {
      "label": "Missouri Tigers ML",
-     "cur": 3,
+     "cur": -4,
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "on"
+     "status": "off"
     }
    ]
   }
