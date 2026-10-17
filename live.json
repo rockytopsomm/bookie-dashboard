@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-17T18:59:13-04:00",
+ "updated": "2026-10-17T19:03:54-04:00",
  "date": "2026-10-17",
  "bets": [
   {
    "bet_id": 13,
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
-   "score": "ALA 10 \u2013 TENN 25",
-   "clock": "3:17 - 4th",
-   "elapsed": 0.945,
+   "score": "ALA 10 \u2013 TENN 26",
+   "clock": "1:56 - 4th",
+   "elapsed": 0.968,
    "status": "on",
    "legs": [
     {
      "label": "Tennessee Volunteers +7.5",
-     "cur": 15,
+     "cur": 16,
      "line": 7.5,
      "side": "spread",
      "pace": null,
@@ -83,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 25 \u2013 TTU 53",
-   "clock": "6:30 - 4th",
-   "elapsed": 0.892,
+   "clock": "3:25 - 4th",
+   "elapsed": 0.943,
    "status": "on",
    "legs": [
     {
@@ -102,8 +102,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 11 \u2013 MICH 21",
-   "clock": "2:00 - 4th",
-   "elapsed": 0.967,
+   "clock": "1:52 - 4th",
+   "elapsed": 0.969,
    "status": "off",
    "legs": [
     {
@@ -177,14 +177,14 @@
    "bet_id": 26,
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
-   "score": "WSU 0 \u2013 ORST 17",
-   "clock": "12:01 - 2nd",
-   "elapsed": 0.3,
+   "score": "WSU 3 \u2013 ORST 17",
+   "clock": "11:12 - 2nd",
+   "elapsed": 0.313,
    "status": "off",
    "legs": [
     {
      "label": "Washington State Cougars ML",
-     "cur": -17,
+     "cur": -14,
      "line": 0,
      "side": "ML",
      "pace": null,
