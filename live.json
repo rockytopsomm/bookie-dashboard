@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:33:54-04:00",
+ "updated": "2026-10-17T17:39:13-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -161,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 0",
-   "clock": "14:17 - 3rd",
-   "elapsed": 0.512,
+   "clock": "12:18 - 3rd",
+   "elapsed": 0.545,
    "status": "on",
    "legs": [
     {
@@ -180,8 +180,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 17 \u2013 VT 24",
-   "clock": "10:27 - 3rd",
-   "elapsed": 0.576,
+   "clock": "8:12 - 3rd",
+   "elapsed": 0.613,
    "status": "off",
    "legs": [
     {
@@ -256,8 +256,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 21",
-   "clock": "14:55 - 3rd",
-   "elapsed": 0.501,
+   "clock": "11:52 - 3rd",
+   "elapsed": 0.552,
    "status": "off",
    "legs": [
     {
