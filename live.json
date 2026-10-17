@@ -1,5 +1,198 @@
 {
- "updated": "2026-10-17T09:20:30-04:00",
+ "updated": "2026-10-17T09:23:54-04:00",
  "date": "2026-10-17",
- "bets": []
+ "bets": [
+  {
+   "bet_id": 13,
+   "selection": "Tennessee Volunteers +7.5",
+   "game": "Alabama Crimson Tide @ Tennessee Volunteers",
+   "score": "ALA 0 \u2013 TENN 0",
+   "clock": "10/17 - 3:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Tennessee Volunteers +7.5",
+     "cur": 0,
+     "line": 7.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 15,
+   "selection": "Utah Utes -15.5",
+   "game": "Utah Utes @ Colorado Buffaloes",
+   "score": "UTAH 0 \u2013 COLO 0",
+   "clock": "10/17 - 10:15 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Utah Utes -15.5",
+     "cur": 0,
+     "line": -15.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 16,
+   "selection": "Indiana Hoosiers +3.5",
+   "game": "Ohio State Buckeyes @ Indiana Hoosiers",
+   "score": "OSU 0 \u2013 IU 0",
+   "clock": "10/17 - 12:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Indiana Hoosiers +3.5",
+     "cur": 0,
+     "line": 3.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 17,
+   "selection": "Ohio State Buckeyes -3.5",
+   "game": "Ohio State Buckeyes @ Indiana Hoosiers",
+   "score": "OSU 0 \u2013 IU 0",
+   "clock": "10/17 - 12:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Ohio State Buckeyes -3.5",
+     "cur": 0,
+     "line": -3.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 18,
+   "selection": "Kentucky Wildcats +6.5",
+   "game": "Kentucky Wildcats @ Oklahoma Sooners",
+   "score": "UK 0 \u2013 OU 0",
+   "clock": "10/17 - 7:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Kentucky Wildcats +6.5",
+     "cur": 0,
+     "line": 6.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 19,
+   "selection": "Houston Cougars -4.5",
+   "game": "Oklahoma State Cowboys @ Houston Cougars",
+   "score": "OKST 0 \u2013 HOU 0",
+   "clock": "10/17 - 7:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Houston Cougars -4.5",
+     "cur": 0,
+     "line": -4.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 20,
+   "selection": "Texas Tech Red Raiders -15.5",
+   "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
+   "score": "ASU 0 \u2013 TTU 0",
+   "clock": "10/17 - 3:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Texas Tech Red Raiders -15.5",
+     "cur": 0,
+     "line": -15.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 21,
+   "selection": "PAR6: Northwestern ML -295 / Texas Tech -15.5 -110 / Georgia Tech +9.5 -110 / Kentucky +6.5 -108 / BYU +10.5 -110 / Utah -15.5 -105",
+   "game": "6-leg parlay",
+   "score": "",
+   "clock": "",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Northwestern ML",
+     "cur": 0,
+     "line": 0.0,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "Texas Tech -15.5",
+     "cur": 0,
+     "line": -15.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "Georgia Tech +9.5",
+     "cur": 0,
+     "line": 9.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "Kentucky +6.5",
+     "cur": 0,
+     "line": 6.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "BYU +10.5",
+     "cur": 0,
+     "line": 10.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "Utah -15.5",
+     "cur": 0,
+     "line": -15.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  }
+ ]
 }
