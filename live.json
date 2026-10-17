@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:22:12-04:00",
+ "updated": "2026-10-17T19:30:39-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -139,18 +139,18 @@
    "bet_id": 24,
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
-   "score": "TCU 0 \u2013 BAY 0",
-   "clock": "9:22 - 1st",
-   "elapsed": 0.094,
-   "status": "off",
+   "score": "TCU 7 \u2013 BAY 0",
+   "clock": "6:14 - 1st",
+   "elapsed": 0.146,
+   "status": "on",
    "legs": [
     {
      "label": "TCU Horned Frogs ML",
-     "cur": 0,
+     "cur": 7,
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "off"
+     "status": "on"
     }
    ]
   },
@@ -177,14 +177,14 @@
    "bet_id": 26,
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
-   "score": "WSU 3 \u2013 ORST 20",
-   "clock": "4:13 - 2nd",
-   "elapsed": 0.43,
+   "score": "WSU 3 \u2013 ORST 27",
+   "clock": "2:00 - 2nd",
+   "elapsed": 0.467,
    "status": "off",
    "legs": [
     {
      "label": "Washington State Cougars ML",
-     "cur": -17,
+     "cur": -24,
      "line": 0,
      "side": "ML",
      "pace": null,
