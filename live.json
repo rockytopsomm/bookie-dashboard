@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:43:57-04:00",
+ "updated": "2026-10-17T15:47:48-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,9 +7,9 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 0 \u2013 TENN 0",
-   "clock": "10/17 - 3:30 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "14:29 - 1st",
+   "elapsed": 0.009,
+   "status": "on",
    "legs": [
     {
      "label": "Tennessee Volunteers +7.5",
@@ -17,7 +17,7 @@
      "line": 7.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     }
    ]
   },
@@ -45,8 +45,8 @@
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 19 \u2013 IU 15",
-   "clock": "1:49 - 4th",
-   "elapsed": 0.97,
+   "clock": "1:02 - 4th",
+   "elapsed": 0.983,
    "status": "on",
    "legs": [
     {
@@ -102,9 +102,9 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 0 \u2013 TTU 0",
-   "clock": "10/17 - 3:30 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "14:23 - 1st",
+   "elapsed": 0.01,
+   "status": "off",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
@@ -112,7 +112,7 @@
      "line": -15.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   },
@@ -123,7 +123,7 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "on",
+   "status": "off",
    "legs": [
     {
      "label": "Northwestern ML",
@@ -139,7 +139,7 @@
      "line": -15.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     },
     {
      "label": "Georgia Tech +9.5",
@@ -180,9 +180,9 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 0 \u2013 MICH 0",
-   "clock": "10/17 - 3:30 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "14:18 - 1st",
+   "elapsed": 0.012,
+   "status": "on",
    "legs": [
     {
      "label": "Penn State Nittany Lions +6.5",
@@ -190,7 +190,7 @@
      "line": 6.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     }
    ]
   },
@@ -199,8 +199,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 0 \u2013 VT 7",
-   "clock": "13:01 - 1st",
-   "elapsed": 0.033,
+   "clock": "9:41 - 1st",
+   "elapsed": 0.089,
    "status": "off",
    "legs": [
     {
@@ -275,8 +275,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 0 \u2013 MISS 0",
-   "clock": "12:13 - 1st",
-   "elapsed": 0.046,
+   "clock": "9:29 - 1st",
+   "elapsed": 0.092,
    "status": "off",
    "legs": [
     {
