@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:38:23-04:00",
+ "updated": "2026-10-17T18:47:18-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 19",
-   "clock": "12:40 - 4th",
-   "elapsed": 0.789,
+   "clock": "6:53 - 4th",
+   "elapsed": 0.885,
    "status": "on",
    "legs": [
     {
@@ -82,14 +82,14 @@
    "bet_id": 20,
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
-   "score": "ASU 17 \u2013 TTU 46",
-   "clock": "11:26 - 4th",
-   "elapsed": 0.809,
+   "score": "ASU 17 \u2013 TTU 53",
+   "clock": "8:26 - 4th",
+   "elapsed": 0.859,
    "status": "on",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
-     "cur": 29,
+     "cur": 36,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -104,7 +104,7 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "off",
+   "status": "lost",
    "legs": [
     {
      "label": "Northwestern ML",
@@ -116,7 +116,7 @@
     },
     {
      "label": "Texas Tech -15.5",
-     "cur": 29,
+     "cur": 36,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -128,7 +128,7 @@
      "line": 9.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "lost"
     },
     {
      "label": "Kentucky +6.5",
@@ -161,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 11 \u2013 MICH 14",
-   "clock": "9:35 - 4th",
-   "elapsed": 0.84,
+   "clock": "5:02 - 4th",
+   "elapsed": 0.916,
    "status": "on",
    "legs": [
     {
@@ -180,9 +180,9 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 24 \u2013 VT 34",
-   "clock": "2:00 - 4th",
-   "elapsed": 0.967,
-   "status": "off",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "lost",
    "legs": [
     {
      "label": "Georgia Tech Yellow Jackets ML",
@@ -190,7 +190,7 @@
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "off"
+     "status": "lost"
     }
    ]
   },
@@ -236,14 +236,14 @@
    "bet_id": 26,
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
-   "score": "WSU 0 \u2013 ORST 14",
-   "clock": "4:46 - 1st",
-   "elapsed": 0.171,
+   "score": "WSU 0 \u2013 ORST 17",
+   "clock": "1:23 - 1st",
+   "elapsed": 0.227,
    "status": "off",
    "legs": [
     {
      "label": "Washington State Cougars ML",
-     "cur": -14,
+     "cur": -17,
      "line": 0,
      "side": "ML",
      "pace": null,
@@ -255,14 +255,14 @@
    "bet_id": 27,
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
-   "score": "MIZ 3 \u2013 MISS 28",
-   "clock": "5:09 - 4th",
-   "elapsed": 0.914,
+   "score": "MIZ 3 \u2013 MISS 31",
+   "clock": "1:54 - 4th",
+   "elapsed": 0.968,
    "status": "off",
    "legs": [
     {
      "label": "Missouri Tigers ML",
-     "cur": -25,
+     "cur": -28,
      "line": 0,
      "side": "ML",
      "pace": null,
