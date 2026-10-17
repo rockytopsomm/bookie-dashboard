@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:19:55-04:00",
+ "updated": "2026-10-17T17:25:33-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 7 \u2013 TENN 12",
-   "clock": "1:53 - 2nd",
-   "elapsed": 0.469,
+   "clock": "0:30 - 2nd",
+   "elapsed": 0.492,
    "status": "on",
    "legs": [
     {
@@ -82,14 +82,14 @@
    "bet_id": 20,
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
-   "score": "ASU 10 \u2013 TTU 33",
-   "clock": "0:55 - 2nd",
-   "elapsed": 0.485,
+   "score": "ASU 10 \u2013 TTU 40",
+   "clock": "0:01 - 2nd",
+   "elapsed": 0.5,
    "status": "on",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
-     "cur": 23,
+     "cur": 30,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -104,7 +104,7 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "off",
+   "status": "on",
    "legs": [
     {
      "label": "Northwestern ML",
@@ -116,7 +116,7 @@
     },
     {
      "label": "Texas Tech -15.5",
-     "cur": 23,
+     "cur": 30,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -124,11 +124,11 @@
     },
     {
      "label": "Georgia Tech +9.5",
-     "cur": -14,
+     "cur": -8,
      "line": 9.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "on"
     },
     {
      "label": "Kentucky +6.5",
@@ -179,14 +179,14 @@
    "bet_id": 23,
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
-   "score": "GT 10 \u2013 VT 24",
-   "clock": "14:12 - 3rd",
-   "elapsed": 0.513,
+   "score": "GT 16 \u2013 VT 24",
+   "clock": "12:01 - 3rd",
+   "elapsed": 0.55,
    "status": "off",
    "legs": [
     {
      "label": "Georgia Tech Yellow Jackets ML",
-     "cur": -14,
+     "cur": -8,
      "line": 0,
      "side": "ML",
      "pace": null,
