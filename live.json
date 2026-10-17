@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T09:23:54-04:00",
+ "updated": "2026-10-17T10:50:42-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -189,6 +189,120 @@
      "cur": 0,
      "line": -15.5,
      "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 22,
+   "selection": "Penn State Nittany Lions +6.5",
+   "game": "Penn State Nittany Lions @ Michigan Wolverines",
+   "score": "PSU 0 \u2013 MICH 0",
+   "clock": "10/17 - 3:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Penn State Nittany Lions +6.5",
+     "cur": 0,
+     "line": 6.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 23,
+   "selection": "Georgia Tech Yellow Jackets ML",
+   "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
+   "score": "GT 0 \u2013 VT 0",
+   "clock": "10/17 - 3:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Georgia Tech Yellow Jackets ML",
+     "cur": 0,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 24,
+   "selection": "TCU Horned Frogs ML",
+   "game": "TCU Horned Frogs @ Baylor Bears",
+   "score": "TCU 0 \u2013 BAY 0",
+   "clock": "10/17 - 7:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "TCU Horned Frogs ML",
+     "cur": 0,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 25,
+   "selection": "Kansas Jayhawks ML",
+   "game": "Kansas Jayhawks @ Kansas State Wildcats",
+   "score": "KU 0 \u2013 KSU 0",
+   "clock": "10/17 - 12:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Kansas Jayhawks ML",
+     "cur": 0,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 26,
+   "selection": "Washington State Cougars ML",
+   "game": "Washington State Cougars @ Oregon State Beavers",
+   "score": "WSU 0 \u2013 ORST 0",
+   "clock": "10/17 - 6:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Washington State Cougars ML",
+     "cur": 0,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 27,
+   "selection": "Missouri Tigers ML",
+   "game": "Missouri Tigers @ Ole Miss Rebels",
+   "score": "MIZ 0 \u2013 MISS 0",
+   "clock": "10/17 - 3:30 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Missouri Tigers ML",
+     "cur": 0,
+     "line": 0,
+     "side": "ML",
      "pace": null,
      "status": "pre"
     }
