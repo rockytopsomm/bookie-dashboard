@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T14:05:32-04:00",
+ "updated": "2026-10-17T14:09:04-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -256,8 +256,8 @@
    "selection": "Kansas Jayhawks ML",
    "game": "Kansas Jayhawks @ Kansas State Wildcats",
    "score": "KU 17 \u2013 KSU 18",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "clock": "13:05 - 3rd",
+   "elapsed": 0.532,
    "status": "off",
    "legs": [
     {
