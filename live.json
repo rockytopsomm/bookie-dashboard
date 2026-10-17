@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:03:54-04:00",
+ "updated": "2026-10-17T19:08:19-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 26",
-   "clock": "1:56 - 4th",
-   "elapsed": 0.968,
+   "clock": "1:40 - 4th",
+   "elapsed": 0.972,
    "status": "on",
    "legs": [
     {
@@ -101,18 +101,18 @@
    "bet_id": 22,
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
-   "score": "PSU 11 \u2013 MICH 21",
-   "clock": "1:52 - 4th",
-   "elapsed": 0.969,
-   "status": "off",
+   "score": "PSU 18 \u2013 MICH 21",
+   "clock": "1:10 - 4th",
+   "elapsed": 0.981,
+   "status": "on",
    "legs": [
     {
      "label": "Penn State Nittany Lions +6.5",
-     "cur": -10,
+     "cur": -3,
      "line": 6.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "on"
     }
    ]
   },
@@ -140,9 +140,9 @@
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
    "score": "TCU 0 \u2013 BAY 0",
-   "clock": "10/17 - 7:00 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "14:11 - 1st",
+   "elapsed": 0.014,
+   "status": "off",
    "legs": [
     {
      "label": "TCU Horned Frogs ML",
@@ -150,7 +150,7 @@
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   },
@@ -178,8 +178,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 3 \u2013 ORST 17",
-   "clock": "11:12 - 2nd",
-   "elapsed": 0.313,
+   "clock": "9:15 - 2nd",
+   "elapsed": 0.346,
    "status": "off",
    "legs": [
     {
