@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:22:41-04:00",
+ "updated": "2026-10-17T13:28:59-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -45,8 +45,8 @@
    "selection": "Indiana Hoosiers +3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 3 \u2013 IU 7",
-   "clock": "9:00 - 2nd",
-   "elapsed": 0.35,
+   "clock": "5:11 - 2nd",
+   "elapsed": 0.414,
    "status": "on",
    "legs": [
     {
@@ -64,8 +64,8 @@
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 3 \u2013 IU 7",
-   "clock": "9:00 - 2nd",
-   "elapsed": 0.35,
+   "clock": "5:11 - 2nd",
+   "elapsed": 0.414,
    "status": "off",
    "legs": [
     {
@@ -142,15 +142,15 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "on",
+   "status": "off",
    "legs": [
     {
      "label": "Northwestern ML",
-     "cur": 3,
+     "cur": -4,
      "line": 0.0,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "off"
     },
     {
      "label": "Texas Tech -15.5",
@@ -256,8 +256,8 @@
    "selection": "Kansas Jayhawks ML",
    "game": "Kansas Jayhawks @ Kansas State Wildcats",
    "score": "KU 17 \u2013 KSU 13",
-   "clock": "2:26 - 2nd",
-   "elapsed": 0.459,
+   "clock": "1:55 - 2nd",
+   "elapsed": 0.468,
    "status": "on",
    "legs": [
     {
