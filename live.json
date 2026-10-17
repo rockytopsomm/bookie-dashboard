@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:51:44-04:00",
+ "updated": "2026-10-17T18:52:39-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 19",
-   "clock": "5:54 - 4th",
-   "elapsed": 0.902,
+   "clock": "5:31 - 4th",
+   "elapsed": 0.908,
    "status": "on",
    "legs": [
     {
@@ -94,65 +94,6 @@
      "side": "spread",
      "pace": null,
      "status": "on"
-    }
-   ]
-  },
-  {
-   "bet_id": 21,
-   "selection": "PAR6: Northwestern ML -295 / Texas Tech -15.5 -110 / Georgia Tech +9.5 -110 / Kentucky +6.5 -108 / BYU +10.5 -110 / Utah -15.5 -105",
-   "game": "6-leg parlay",
-   "score": "",
-   "clock": "",
-   "elapsed": 0.0,
-   "status": "lost",
-   "legs": [
-    {
-     "label": "Northwestern ML",
-     "cur": 3,
-     "line": 0.0,
-     "side": "spread",
-     "pace": null,
-     "status": "won"
-    },
-    {
-     "label": "Texas Tech -15.5",
-     "cur": 30,
-     "line": -15.5,
-     "side": "spread",
-     "pace": null,
-     "status": "on"
-    },
-    {
-     "label": "Georgia Tech +9.5",
-     "cur": -10,
-     "line": 9.5,
-     "side": "spread",
-     "pace": null,
-     "status": "lost"
-    },
-    {
-     "label": "Kentucky +6.5",
-     "cur": 0,
-     "line": 6.5,
-     "side": "spread",
-     "pace": null,
-     "status": "pre"
-    },
-    {
-     "label": "BYU +10.5",
-     "cur": 0,
-     "line": 10.5,
-     "side": "spread",
-     "pace": null,
-     "status": "pre"
-    },
-    {
-     "label": "Utah -15.5",
-     "cur": 0,
-     "line": -15.5,
-     "side": "spread",
-     "pace": null,
-     "status": "pre"
     }
    ]
   },
@@ -256,8 +197,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 31",
-   "clock": "1:18 - 4th",
-   "elapsed": 0.978,
+   "clock": "1:08 - 4th",
+   "elapsed": 0.981,
    "status": "off",
    "legs": [
     {
