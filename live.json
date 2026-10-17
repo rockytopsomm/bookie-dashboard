@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-17T17:01:17-04:00",
+ "updated": "2026-10-17T17:02:24-04:00",
  "date": "2026-10-17",
  "bets": [
   {
    "bet_id": 13,
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
-   "score": "ALA 7 \u2013 TENN 9",
-   "clock": "6:04 - 2nd",
-   "elapsed": 0.399,
+   "score": "ALA 7 \u2013 TENN 12",
+   "clock": "5:19 - 2nd",
+   "elapsed": 0.411,
    "status": "on",
    "legs": [
     {
      "label": "Tennessee Volunteers +7.5",
-     "cur": 2,
+     "cur": 5,
      "line": 7.5,
      "side": "spread",
      "pace": null,
@@ -83,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 10 \u2013 TTU 27",
-   "clock": "6:23 - 2nd",
-   "elapsed": 0.394,
+   "clock": "6:13 - 2nd",
+   "elapsed": 0.396,
    "status": "on",
    "legs": [
     {
@@ -161,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 0",
-   "clock": "1:30 - 2nd",
-   "elapsed": 0.475,
+   "clock": "1:19 - 2nd",
+   "elapsed": 0.478,
    "status": "on",
    "legs": [
     {
@@ -256,7 +256,7 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 21",
-   "clock": "2:00 - 2nd",
+   "clock": "1:59 - 2nd",
    "elapsed": 0.467,
    "status": "off",
    "legs": [
