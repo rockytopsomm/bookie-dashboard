@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:47:18-04:00",
+ "updated": "2026-10-17T18:51:44-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 19",
-   "clock": "6:53 - 4th",
-   "elapsed": 0.885,
+   "clock": "5:54 - 4th",
+   "elapsed": 0.902,
    "status": "on",
    "legs": [
     {
@@ -82,14 +82,14 @@
    "bet_id": 20,
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
-   "score": "ASU 17 \u2013 TTU 53",
-   "clock": "8:26 - 4th",
-   "elapsed": 0.859,
+   "score": "ASU 23 \u2013 TTU 53",
+   "clock": "6:31 - 4th",
+   "elapsed": 0.891,
    "status": "on",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
-     "cur": 36,
+     "cur": 30,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -116,7 +116,7 @@
     },
     {
      "label": "Texas Tech -15.5",
-     "cur": 36,
+     "cur": 30,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -160,18 +160,18 @@
    "bet_id": 22,
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
-   "score": "PSU 11 \u2013 MICH 14",
-   "clock": "5:02 - 4th",
-   "elapsed": 0.916,
-   "status": "on",
+   "score": "PSU 11 \u2013 MICH 21",
+   "clock": "2:58 - 4th",
+   "elapsed": 0.951,
+   "status": "off",
    "legs": [
     {
      "label": "Penn State Nittany Lions +6.5",
-     "cur": -3,
+     "cur": -10,
      "line": 6.5,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "off"
     }
    ]
   },
@@ -237,8 +237,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 0 \u2013 ORST 17",
-   "clock": "1:23 - 1st",
-   "elapsed": 0.227,
+   "clock": "End of 1st",
+   "elapsed": 0.25,
    "status": "off",
    "legs": [
     {
@@ -256,8 +256,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 31",
-   "clock": "1:54 - 4th",
-   "elapsed": 0.968,
+   "clock": "1:18 - 4th",
+   "elapsed": 0.978,
    "status": "off",
    "legs": [
     {
