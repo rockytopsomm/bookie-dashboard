@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:14:18-04:00",
+ "updated": "2026-10-17T19:22:12-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,9 +7,9 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 26",
-   "clock": "0:43 - 4th",
-   "elapsed": 0.988,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "Tennessee Volunteers +7.5",
@@ -17,7 +17,7 @@
      "line": 7.5,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "won"
     }
    ]
   },
@@ -140,8 +140,8 @@
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
    "score": "TCU 0 \u2013 BAY 0",
-   "clock": "10:54 - 1st",
-   "elapsed": 0.068,
+   "clock": "9:22 - 1st",
+   "elapsed": 0.094,
    "status": "off",
    "legs": [
     {
@@ -178,8 +178,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 3 \u2013 ORST 20",
-   "clock": "7:38 - 2nd",
-   "elapsed": 0.373,
+   "clock": "4:13 - 2nd",
+   "elapsed": 0.43,
    "status": "off",
    "legs": [
     {
