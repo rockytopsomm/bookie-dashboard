@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T17:51:21-04:00",
+ "updated": "2026-10-17T17:56:55-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 12",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "clock": "11:58 - 3rd",
+   "elapsed": 0.551,
    "status": "on",
    "legs": [
     {
@@ -83,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 10 \u2013 TTU 43",
-   "clock": "13:31 - 3rd",
-   "elapsed": 0.525,
+   "clock": "10:08 - 3rd",
+   "elapsed": 0.581,
    "status": "on",
    "legs": [
     {
@@ -161,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 7",
-   "clock": "8:58 - 3rd",
-   "elapsed": 0.601,
+   "clock": "7:34 - 3rd",
+   "elapsed": 0.624,
    "status": "on",
    "legs": [
     {
@@ -180,8 +180,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 17 \u2013 VT 31",
-   "clock": "1:46 - 3rd",
-   "elapsed": 0.721,
+   "clock": "End of 3rd",
+   "elapsed": 0.75,
    "status": "off",
    "legs": [
     {
@@ -256,8 +256,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 3 \u2013 MISS 21",
-   "clock": "8:52 - 3rd",
-   "elapsed": 0.602,
+   "clock": "5:43 - 3rd",
+   "elapsed": 0.655,
    "status": "off",
    "legs": [
     {
