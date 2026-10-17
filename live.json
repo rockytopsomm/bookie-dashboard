@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:45:48-04:00",
+ "updated": "2026-10-17T19:48:12-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -26,8 +26,8 @@
    "selection": "Kentucky Wildcats +6.5",
    "game": "Kentucky Wildcats @ Oklahoma Sooners",
    "score": "UK 0 \u2013 OU 0",
-   "clock": "11:40 - 1st",
-   "elapsed": 0.056,
+   "clock": "10:21 - 1st",
+   "elapsed": 0.077,
    "status": "on",
    "legs": [
     {
@@ -140,7 +140,7 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 10 \u2013 ORST 27",
-   "clock": "End of 2nd",
+   "clock": "Halftime",
    "elapsed": 0.5,
    "status": "off",
    "legs": [
