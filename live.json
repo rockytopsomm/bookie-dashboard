@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T18:17:25-04:00",
+ "updated": "2026-10-17T18:25:42-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 19",
-   "clock": "3:39 - 3rd",
-   "elapsed": 0.689,
+   "clock": "2:45 - 3rd",
+   "elapsed": 0.704,
    "status": "on",
    "legs": [
     {
@@ -83,8 +83,8 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 17 \u2013 TTU 43",
-   "clock": "3:17 - 3rd",
-   "elapsed": 0.695,
+   "clock": "1:05 - 3rd",
+   "elapsed": 0.732,
    "status": "on",
    "legs": [
     {
@@ -124,7 +124,7 @@
     },
     {
      "label": "Georgia Tech +9.5",
-     "cur": -17,
+     "cur": -10,
      "line": 9.5,
      "side": "spread",
      "pace": null,
@@ -161,8 +161,8 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 3 \u2013 MICH 14",
-   "clock": "End of 3rd",
-   "elapsed": 0.75,
+   "clock": "11:44 - 4th",
+   "elapsed": 0.804,
    "status": "off",
    "legs": [
     {
@@ -179,14 +179,14 @@
    "bet_id": 23,
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
-   "score": "GT 17 \u2013 VT 34",
-   "clock": "6:51 - 4th",
-   "elapsed": 0.886,
+   "score": "GT 24 \u2013 VT 34",
+   "clock": "5:20 - 4th",
+   "elapsed": 0.911,
    "status": "off",
    "legs": [
     {
      "label": "Georgia Tech Yellow Jackets ML",
-     "cur": -17,
+     "cur": -10,
      "line": 0,
      "side": "ML",
      "pace": null,
@@ -237,8 +237,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 0 \u2013 ORST 0",
-   "clock": "13:22 - 1st",
-   "elapsed": 0.027,
+   "clock": "9:57 - 1st",
+   "elapsed": 0.084,
    "status": "off",
    "legs": [
     {
@@ -255,14 +255,14 @@
    "bet_id": 27,
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
-   "score": "MIZ 3 \u2013 MISS 21",
-   "clock": "15:00 - 3rd",
-   "elapsed": 0.5,
+   "score": "MIZ 3 \u2013 MISS 28",
+   "clock": "12:44 - 4th",
+   "elapsed": 0.788,
    "status": "off",
    "legs": [
     {
      "label": "Missouri Tigers ML",
-     "cur": -18,
+     "cur": -25,
      "line": 0,
      "side": "ML",
      "pace": null,
