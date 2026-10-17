@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:31:13-04:00",
+ "updated": "2026-10-17T15:34:00-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -41,31 +41,12 @@
    ]
   },
   {
-   "bet_id": 16,
-   "selection": "Indiana Hoosiers +3.5",
-   "game": "Ohio State Buckeyes @ Indiana Hoosiers",
-   "score": "OSU 19 \u2013 IU 15",
-   "clock": "4:29 - 4th",
-   "elapsed": 0.925,
-   "status": "off",
-   "legs": [
-    {
-     "label": "Indiana Hoosiers +3.5",
-     "cur": -4,
-     "line": 3.5,
-     "side": "spread",
-     "pace": null,
-     "status": "off"
-    }
-   ]
-  },
-  {
    "bet_id": 17,
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 19 \u2013 IU 15",
-   "clock": "4:29 - 4th",
-   "elapsed": 0.925,
+   "clock": "3:22 - 4th",
+   "elapsed": 0.944,
    "status": "on",
    "legs": [
     {
@@ -256,9 +237,9 @@
    "selection": "Kansas Jayhawks ML",
    "game": "Kansas Jayhawks @ Kansas State Wildcats",
    "score": "KU 24 \u2013 KSU 35",
-   "clock": "1:12 - 4th",
-   "elapsed": 0.98,
-   "status": "off",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "lost",
    "legs": [
     {
      "label": "Kansas Jayhawks ML",
@@ -266,7 +247,7 @@
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "off"
+     "status": "lost"
     }
    ]
   },
