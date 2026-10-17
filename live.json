@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:34:00-04:00",
+ "updated": "2026-10-17T15:41:42-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -45,8 +45,8 @@
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 19 \u2013 IU 15",
-   "clock": "3:22 - 4th",
-   "elapsed": 0.944,
+   "clock": "1:58 - 4th",
+   "elapsed": 0.967,
    "status": "on",
    "legs": [
     {
@@ -143,11 +143,11 @@
     },
     {
      "label": "Georgia Tech +9.5",
-     "cur": 0,
+     "cur": -7,
      "line": 9.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     },
     {
      "label": "Kentucky +6.5",
@@ -198,18 +198,18 @@
    "bet_id": 23,
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
-   "score": "GT 0 \u2013 VT 0",
-   "clock": "10/17 - 3:30 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "score": "GT 0 \u2013 VT 7",
+   "clock": "13:37 - 1st",
+   "elapsed": 0.023,
+   "status": "off",
    "legs": [
     {
      "label": "Georgia Tech Yellow Jackets ML",
-     "cur": 0,
+     "cur": -7,
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   },
@@ -275,9 +275,9 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 0 \u2013 MISS 0",
-   "clock": "10/17 - 3:30 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "12:46 - 1st",
+   "elapsed": 0.037,
+   "status": "off",
    "legs": [
     {
      "label": "Missouri Tigers ML",
@@ -285,7 +285,7 @@
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   }
