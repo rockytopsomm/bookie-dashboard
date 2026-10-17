@@ -1,26 +1,7 @@
 {
- "updated": "2026-10-17T19:40:26-04:00",
+ "updated": "2026-10-17T19:45:48-04:00",
  "date": "2026-10-17",
  "bets": [
-  {
-   "bet_id": 13,
-   "selection": "Tennessee Volunteers +7.5",
-   "game": "Alabama Crimson Tide @ Tennessee Volunteers",
-   "score": "ALA 10 \u2013 TENN 26",
-   "clock": "Final",
-   "elapsed": 1.0,
-   "status": "won",
-   "legs": [
-    {
-     "label": "Tennessee Volunteers +7.5",
-     "cur": 16,
-     "line": 7.5,
-     "side": "spread",
-     "pace": null,
-     "status": "won"
-    }
-   ]
-  },
   {
    "bet_id": 15,
    "selection": "Utah Utes -15.5",
@@ -45,9 +26,9 @@
    "selection": "Kentucky Wildcats +6.5",
    "game": "Kentucky Wildcats @ Oklahoma Sooners",
    "score": "UK 0 \u2013 OU 0",
-   "clock": "10/17 - 7:30 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "11:40 - 1st",
+   "elapsed": 0.056,
+   "status": "on",
    "legs": [
     {
      "label": "Kentucky Wildcats +6.5",
@@ -55,7 +36,7 @@
      "line": 6.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     }
    ]
   },
@@ -63,37 +44,18 @@
    "bet_id": 19,
    "selection": "Houston Cougars -4.5",
    "game": "Oklahoma State Cowboys @ Houston Cougars",
-   "score": "OKST 0 \u2013 HOU 0",
-   "clock": "11:32 - 1st",
-   "elapsed": 0.058,
+   "score": "OKST 3 \u2013 HOU 0",
+   "clock": "8:39 - 1st",
+   "elapsed": 0.106,
    "status": "off",
    "legs": [
     {
      "label": "Houston Cougars -4.5",
-     "cur": 0,
+     "cur": -3,
      "line": -4.5,
      "side": "spread",
      "pace": null,
      "status": "off"
-    }
-   ]
-  },
-  {
-   "bet_id": 20,
-   "selection": "Texas Tech Red Raiders -15.5",
-   "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
-   "score": "ASU 25 \u2013 TTU 53",
-   "clock": "Final",
-   "elapsed": 1.0,
-   "status": "won",
-   "legs": [
-    {
-     "label": "Texas Tech Red Raiders -15.5",
-     "cur": 28,
-     "line": -15.5,
-     "side": "spread",
-     "pace": null,
-     "status": "won"
     }
    ]
   },
@@ -140,8 +102,8 @@
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
    "score": "TCU 7 \u2013 BAY 0",
-   "clock": "0:54 - 1st",
-   "elapsed": 0.235,
+   "clock": "15:00 - 2nd",
+   "elapsed": 0.25,
    "status": "on",
    "legs": [
     {
@@ -178,8 +140,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 10 \u2013 ORST 27",
-   "clock": "0:37 - 2nd",
-   "elapsed": 0.49,
+   "clock": "End of 2nd",
+   "elapsed": 0.5,
    "status": "off",
    "legs": [
     {
