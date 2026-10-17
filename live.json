@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:46:45-04:00",
+ "updated": "2026-10-17T13:48:09-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -45,8 +45,8 @@
    "selection": "Indiana Hoosiers +3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 3 \u2013 IU 7",
-   "clock": "0:46 - 2nd",
-   "elapsed": 0.487,
+   "clock": "0:29 - 2nd",
+   "elapsed": 0.492,
    "status": "on",
    "legs": [
     {
@@ -64,8 +64,8 @@
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 3 \u2013 IU 7",
-   "clock": "0:46 - 2nd",
-   "elapsed": 0.487,
+   "clock": "0:29 - 2nd",
+   "elapsed": 0.492,
    "status": "off",
    "legs": [
     {
