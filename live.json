@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T15:41:42-04:00",
+ "updated": "2026-10-17T15:43:57-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -45,8 +45,8 @@
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
    "score": "OSU 19 \u2013 IU 15",
-   "clock": "1:58 - 4th",
-   "elapsed": 0.967,
+   "clock": "1:49 - 4th",
+   "elapsed": 0.97,
    "status": "on",
    "legs": [
     {
@@ -199,8 +199,8 @@
    "selection": "Georgia Tech Yellow Jackets ML",
    "game": "Georgia Tech Yellow Jackets @ Virginia Tech Hokies",
    "score": "GT 0 \u2013 VT 7",
-   "clock": "13:37 - 1st",
-   "elapsed": 0.023,
+   "clock": "13:01 - 1st",
+   "elapsed": 0.033,
    "status": "off",
    "legs": [
     {
@@ -275,8 +275,8 @@
    "selection": "Missouri Tigers ML",
    "game": "Missouri Tigers @ Ole Miss Rebels",
    "score": "MIZ 0 \u2013 MISS 0",
-   "clock": "12:46 - 1st",
-   "elapsed": 0.037,
+   "clock": "12:13 - 1st",
+   "elapsed": 0.046,
    "status": "off",
    "legs": [
     {
