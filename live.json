@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T19:08:19-04:00",
+ "updated": "2026-10-17T19:14:18-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Tennessee Volunteers +7.5",
    "game": "Alabama Crimson Tide @ Tennessee Volunteers",
    "score": "ALA 10 \u2013 TENN 26",
-   "clock": "1:40 - 4th",
-   "elapsed": 0.972,
+   "clock": "0:43 - 4th",
+   "elapsed": 0.988,
    "status": "on",
    "legs": [
     {
@@ -83,9 +83,9 @@
    "selection": "Texas Tech Red Raiders -15.5",
    "game": "Arizona State Sun Devils @ Texas Tech Red Raiders",
    "score": "ASU 25 \u2013 TTU 53",
-   "clock": "3:25 - 4th",
-   "elapsed": 0.943,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "Texas Tech Red Raiders -15.5",
@@ -93,7 +93,7 @@
      "line": -15.5,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "won"
     }
    ]
   },
@@ -102,9 +102,9 @@
    "selection": "Penn State Nittany Lions +6.5",
    "game": "Penn State Nittany Lions @ Michigan Wolverines",
    "score": "PSU 18 \u2013 MICH 21",
-   "clock": "1:10 - 4th",
-   "elapsed": 0.981,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "Penn State Nittany Lions +6.5",
@@ -112,7 +112,7 @@
      "line": 6.5,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "won"
     }
    ]
   },
@@ -140,8 +140,8 @@
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
    "score": "TCU 0 \u2013 BAY 0",
-   "clock": "14:11 - 1st",
-   "elapsed": 0.014,
+   "clock": "10:54 - 1st",
+   "elapsed": 0.068,
    "status": "off",
    "legs": [
     {
@@ -177,14 +177,14 @@
    "bet_id": 26,
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
-   "score": "WSU 3 \u2013 ORST 17",
-   "clock": "9:15 - 2nd",
-   "elapsed": 0.346,
+   "score": "WSU 3 \u2013 ORST 20",
+   "clock": "7:38 - 2nd",
+   "elapsed": 0.373,
    "status": "off",
    "legs": [
     {
      "label": "Washington State Cougars ML",
-     "cur": -14,
+     "cur": -17,
      "line": 0,
      "side": "ML",
      "pace": null,
