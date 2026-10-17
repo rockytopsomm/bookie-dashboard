@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T10:50:42-04:00",
+ "updated": "2026-10-17T13:04:58-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -44,18 +44,18 @@
    "bet_id": 16,
    "selection": "Indiana Hoosiers +3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
-   "score": "OSU 0 \u2013 IU 0",
-   "clock": "10/17 - 12:00 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "score": "OSU 3 \u2013 IU 6",
+   "clock": "13:54 - 2nd",
+   "elapsed": 0.268,
+   "status": "on",
    "legs": [
     {
      "label": "Indiana Hoosiers +3.5",
-     "cur": 0,
+     "cur": 3,
      "line": 3.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     }
    ]
   },
@@ -63,18 +63,18 @@
    "bet_id": 17,
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
-   "score": "OSU 0 \u2013 IU 0",
-   "clock": "10/17 - 12:00 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "score": "OSU 3 \u2013 IU 6",
+   "clock": "13:54 - 2nd",
+   "elapsed": 0.268,
+   "status": "off",
    "legs": [
     {
      "label": "Ohio State Buckeyes -3.5",
-     "cur": 0,
+     "cur": -3,
      "line": -3.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   },
@@ -142,15 +142,15 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "pre",
+   "status": "on",
    "legs": [
     {
      "label": "Northwestern ML",
-     "cur": 0,
+     "cur": 3,
      "line": 0.0,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     },
     {
      "label": "Texas Tech -15.5",
@@ -255,18 +255,18 @@
    "bet_id": 25,
    "selection": "Kansas Jayhawks ML",
    "game": "Kansas Jayhawks @ Kansas State Wildcats",
-   "score": "KU 0 \u2013 KSU 0",
-   "clock": "10/17 - 12:00 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "score": "KU 17 \u2013 KSU 10",
+   "clock": "10:24 - 2nd",
+   "elapsed": 0.327,
+   "status": "on",
    "legs": [
     {
      "label": "Kansas Jayhawks ML",
-     "cur": 0,
+     "cur": 7,
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "pre"
+     "status": "on"
     }
    ]
   },
