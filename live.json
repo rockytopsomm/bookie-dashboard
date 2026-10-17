@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T13:48:09-04:00",
+ "updated": "2026-10-17T13:56:36-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -44,14 +44,14 @@
    "bet_id": 16,
    "selection": "Indiana Hoosiers +3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
-   "score": "OSU 3 \u2013 IU 7",
-   "clock": "0:29 - 2nd",
-   "elapsed": 0.492,
+   "score": "OSU 10 \u2013 IU 7",
+   "clock": "Halftime",
+   "elapsed": 0.5,
    "status": "on",
    "legs": [
     {
      "label": "Indiana Hoosiers +3.5",
-     "cur": 4,
+     "cur": -3,
      "line": 3.5,
      "side": "spread",
      "pace": null,
@@ -63,14 +63,14 @@
    "bet_id": 17,
    "selection": "Ohio State Buckeyes -3.5",
    "game": "Ohio State Buckeyes @ Indiana Hoosiers",
-   "score": "OSU 3 \u2013 IU 7",
-   "clock": "0:29 - 2nd",
-   "elapsed": 0.492,
+   "score": "OSU 10 \u2013 IU 7",
+   "clock": "Halftime",
+   "elapsed": 0.5,
    "status": "off",
    "legs": [
     {
      "label": "Ohio State Buckeyes -3.5",
-     "cur": -4,
+     "cur": 3,
      "line": -3.5,
      "side": "spread",
      "pace": null,
