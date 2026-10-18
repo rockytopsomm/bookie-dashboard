@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:57:32-04:00",
+ "updated": "2026-10-18T14:01:04-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -35,7 +35,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 5.7,
+     "pace": 5.2,
      "status": "off"
     },
     {
@@ -43,7 +43,7 @@
      "cur": 87.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 246.0,
+     "pace": 224.2,
      "status": "off"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 36.3,
+     "pace": 35.2,
      "status": "lost"
     }
    ]
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 7",
-   "clock": "8:36 - 2nd",
-   "elapsed": 0.357,
+   "clock": "7:07 - 2nd",
+   "elapsed": 0.381,
    "status": "off",
    "legs": [
     {
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 3 \u2013 NE 7",
-   "clock": "8:47 - 2nd",
-   "elapsed": 0.354,
+   "clock": "6:43 - 2nd",
+   "elapsed": 0.388,
    "status": "off",
    "legs": [
     {
@@ -105,7 +105,7 @@
      "cur": 42.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 118.8,
+     "pace": 108.2,
      "status": "off"
     }
    ]
@@ -124,7 +124,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 5.7,
+     "pace": 5.2,
      "status": "off"
     },
     {
@@ -132,7 +132,7 @@
      "cur": 87.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 246.0,
+     "pace": 224.2,
      "status": "off"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 36.3,
+     "pace": 35.2,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 0 \u2013 NYG 7",
-   "clock": "6:51 - 2nd",
-   "elapsed": 0.386,
+   "clock": "6:09 - 2nd",
+   "elapsed": 0.398,
    "status": "off",
    "legs": [
     {
