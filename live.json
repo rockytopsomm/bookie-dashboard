@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:18:30-04:00",
+ "updated": "2026-10-18T10:54:06-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -254,18 +254,18 @@
    "bet_id": 36,
    "selection": "M.Harrison rec_yds Over 16.5",
    "game": "Houston Texans @ Jacksonville Jaguars",
-   "score": "HOU 7 \u2013 JAX 0",
-   "clock": "13:18 - 2nd",
-   "elapsed": 0.278,
-   "status": "off",
+   "score": "HOU 10 \u2013 JAX 7",
+   "clock": "1:03 - 2nd",
+   "elapsed": 0.482,
+   "status": "on",
    "legs": [
     {
      "label": "M.Harrison Over 16.5 rec_yds",
-     "cur": 0.0,
+     "cur": 14.0,
      "line": 16.5,
      "side": "Over",
-     "pace": 0.0,
-     "status": "off"
+     "pace": 29.0,
+     "status": "on"
     }
    ]
   }
