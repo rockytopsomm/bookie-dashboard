@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:28:53-04:00",
+ "updated": "2026-10-18T15:34:47-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -36,14 +36,14 @@
      "line": 2.5,
      "side": "Under",
      "pace": 2.5,
-     "status": "off"
+     "status": "on"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
-     "cur": 176.0,
+     "cur": 185.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 224.1,
+     "pace": 229.4,
      "status": "off"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 31.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 41.3,
+     "pace": 39.3,
      "status": "lost"
     }
    ]
@@ -76,9 +76,9 @@
    "bet_id": 30,
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
-   "score": "TEN 13 \u2013 IND 13",
-   "clock": "12:15 - 4th",
-   "elapsed": 0.796,
+   "score": "TEN 20 \u2013 IND 13",
+   "clock": "10:17 - 4th",
+   "elapsed": 0.829,
    "status": "off",
    "legs": [
     {
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 13 \u2013 NE 23",
-   "clock": "12:53 - 4th",
-   "elapsed": 0.785,
+   "clock": "11:37 - 4th",
+   "elapsed": 0.806,
    "status": "off",
    "legs": [
     {
@@ -105,7 +105,7 @@
      "cur": 181.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 230.5,
+     "pace": 224.5,
      "status": "off"
     }
    ]
@@ -125,14 +125,14 @@
      "line": 2.5,
      "side": "Under",
      "pace": 2.5,
-     "status": "off"
+     "status": "on"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
-     "cur": 176.0,
+     "cur": 185.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 224.1,
+     "pace": 229.4,
      "status": "off"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 31.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 41.3,
+     "pace": 39.3,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 27 \u2013 NYG 10",
-   "clock": "15:00 - 4th",
-   "elapsed": 0.75,
+   "clock": "12:41 - 4th",
+   "elapsed": 0.789,
    "status": "on",
    "legs": [
     {
