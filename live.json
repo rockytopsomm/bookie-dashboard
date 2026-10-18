@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:58:49-04:00",
+ "updated": "2026-10-18T19:03:39-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 6 \u2013 KC 19",
-   "clock": "11:46 - 4th",
-   "elapsed": 0.804,
+   "clock": "9:36 - 4th",
+   "elapsed": 0.84,
    "status": "on",
    "legs": [
     {
@@ -16,7 +16,7 @@
      "cur": 25,
      "line": 42.5,
      "side": "under",
-     "pace": 31.1,
+     "pace": 29.8,
      "status": "on"
     }
    ]
@@ -48,10 +48,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 148.0,
+     "cur": 152.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 184.1,
+     "pace": 181.0,
      "status": "on"
     },
     {
@@ -59,7 +59,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.5,
+     "pace": 2.4,
      "status": "won"
     },
     {
@@ -137,10 +137,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 148.0,
+     "cur": 152.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 184.1,
+     "pace": 181.0,
      "status": "on"
     },
     {
@@ -148,7 +148,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.5,
+     "pace": 2.4,
      "status": "won"
     },
     {
@@ -165,18 +165,18 @@
    "bet_id": 33,
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
-   "score": "ARI 15 \u2013 LAR 16",
-   "clock": "0:31 - 4th",
-   "elapsed": 0.991,
-   "status": "off",
+   "score": "ARI 18 \u2013 LAR 16",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "lost",
    "legs": [
     {
      "label": "P.Nacua Over 7.5 receptions",
      "cur": 6.0,
      "line": 7.5,
      "side": "Over",
-     "pace": 6.1,
-     "status": "off"
+     "pace": 6.0,
+     "status": "lost"
     }
    ]
   },
@@ -230,7 +230,7 @@
      "line": 0.5,
      "side": "Over",
      "pace": 0.0,
-     "status": "off"
+     "status": "lost"
     },
     {
      "label": "J.Cook Over 0.5 anytime_td",
@@ -245,7 +245,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.5,
+     "pace": 2.4,
      "status": "won"
     }
    ]
