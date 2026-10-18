@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T20:55:31-04:00",
+ "updated": "2026-10-17T21:02:14-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -26,7 +26,7 @@
    "selection": "Kentucky Wildcats +6.5",
    "game": "Kentucky Wildcats @ Oklahoma Sooners",
    "score": "UK 7 \u2013 OU 10",
-   "clock": "End of 2nd",
+   "clock": "Halftime",
    "elapsed": 0.5,
    "status": "on",
    "legs": [
@@ -45,8 +45,8 @@
    "selection": "Houston Cougars -4.5",
    "game": "Oklahoma State Cowboys @ Houston Cougars",
    "score": "OKST 3 \u2013 HOU 14",
-   "clock": "1:57 - 2nd",
-   "elapsed": 0.468,
+   "clock": "1:37 - 2nd",
+   "elapsed": 0.473,
    "status": "on",
    "legs": [
     {
@@ -101,14 +101,14 @@
    "bet_id": 24,
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
-   "score": "TCU 7 \u2013 BAY 6",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "score": "TCU 14 \u2013 BAY 6",
+   "clock": "14:16 - 3rd",
+   "elapsed": 0.512,
    "status": "on",
    "legs": [
     {
      "label": "TCU Horned Frogs ML",
-     "cur": 1,
+     "cur": 8,
      "line": 0,
      "side": "ML",
      "pace": null,
@@ -139,14 +139,14 @@
    "bet_id": 26,
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
-   "score": "WSU 16 \u2013 ORST 40",
-   "clock": "11:40 - 4th",
-   "elapsed": 0.806,
+   "score": "WSU 16 \u2013 ORST 41",
+   "clock": "11:20 - 4th",
+   "elapsed": 0.811,
    "status": "off",
    "legs": [
     {
      "label": "Washington State Cougars ML",
-     "cur": -24,
+     "cur": -25,
      "line": 0,
      "side": "ML",
      "pace": null,
