@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-18T16:38:52-04:00",
+ "updated": "2026-10-18T16:42:33-04:00",
  "date": "2026-10-18",
  "bets": [
   {
    "bet_id": 10,
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
-   "score": "LAC 0 \u2013 KC 3",
-   "clock": "9:21 - 1st",
-   "elapsed": 0.094,
-   "status": "on",
+   "score": "LAC 0 \u2013 KC 9",
+   "clock": "7:21 - 1st",
+   "elapsed": 0.128,
+   "status": "off",
    "legs": [
     {
      "label": "Under 42.5",
-     "cur": 3,
+     "cur": 9,
      "line": 42.5,
      "side": "under",
-     "pace": 31.9,
-     "status": "on"
+     "pace": 70.6,
+     "status": "off"
     }
    ]
   },
@@ -48,19 +48,19 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 0.0,
+     "cur": -1.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 0.0,
+     "pace": -7.8,
      "status": "on"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
-     "cur": 0.0,
+     "cur": 1.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 0.0,
-     "status": "off"
+     "pace": 7.8,
+     "status": "won"
     },
     {
      "label": "C.Donaldson Under 10.5 rush_yds",
@@ -137,19 +137,19 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 0.0,
+     "cur": -1.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 0.0,
+     "pace": -7.8,
      "status": "on"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
-     "cur": 0.0,
+     "cur": 1.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 0.0,
-     "status": "off"
+     "pace": 7.8,
+     "status": "won"
     },
     {
      "label": "C.Donaldson Under 10.5 rush_yds",
@@ -165,9 +165,9 @@
    "bet_id": 33,
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
-   "score": "ARI 3 \u2013 LAR 3",
-   "clock": "15:00 - 2nd",
-   "elapsed": 0.25,
+   "score": "ARI 6 \u2013 LAR 3",
+   "clock": "14:51 - 2nd",
+   "elapsed": 0.253,
    "status": "off",
    "legs": [
     {
@@ -242,11 +242,11 @@
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
-     "cur": 0.0,
+     "cur": 1.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 0.0,
-     "status": "off"
+     "pace": 7.8,
+     "status": "won"
     }
    ]
   },
