@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-18T19:10:02-04:00",
+ "updated": "2026-10-18T19:17:31-04:00",
  "date": "2026-10-18",
  "bets": [
   {
    "bet_id": 10,
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
-   "score": "LAC 6 \u2013 KC 19",
-   "clock": "4:43 - 4th",
-   "elapsed": 0.921,
+   "score": "LAC 6 \u2013 KC 22",
+   "clock": "1:59 - 4th",
+   "elapsed": 0.967,
    "status": "on",
    "legs": [
     {
      "label": "Under 42.5",
-     "cur": 25,
+     "cur": 28,
      "line": 42.5,
      "side": "under",
-     "pace": 27.1,
+     "pace": 29.0,
      "status": "on"
     }
    ]
@@ -48,10 +48,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 158.0,
+     "cur": 185.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 171.5,
+     "pace": 191.3,
      "status": "on"
     },
     {
@@ -59,7 +59,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.2,
+     "pace": 2.1,
      "status": "won"
     },
     {
@@ -137,10 +137,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 158.0,
+     "cur": 185.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 171.5,
+     "pace": 191.3,
      "status": "on"
     },
     {
@@ -148,7 +148,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.2,
+     "pace": 2.1,
      "status": "won"
     },
     {
@@ -237,7 +237,7 @@
      "cur": 1.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 1.1,
+     "pace": 1.0,
      "status": "won"
     },
     {
@@ -245,7 +245,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.2,
+     "pace": 2.1,
      "status": "won"
     }
    ]
