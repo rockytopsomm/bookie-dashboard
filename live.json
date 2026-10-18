@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:57:28-04:00",
+ "updated": "2026-10-18T18:06:50-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,17 +7,17 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 3 \u2013 KC 19",
-   "clock": "Halftime",
-   "elapsed": 0.5,
-   "status": "off",
+   "clock": "12:25 - 3rd",
+   "elapsed": 0.543,
+   "status": "on",
    "legs": [
     {
      "label": "Under 42.5",
      "cur": 22,
      "line": 42.5,
      "side": "under",
-     "pace": 44.0,
-     "status": "off"
+     "pace": 40.5,
+     "status": "on"
     }
    ]
   },
@@ -48,18 +48,18 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 45.0,
+     "cur": 114.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 90.0,
-     "status": "on"
+     "pace": 209.9,
+     "status": "off"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.0,
+     "pace": 3.7,
      "status": "won"
     },
     {
@@ -137,18 +137,18 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 45.0,
+     "cur": 114.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 90.0,
-     "status": "on"
+     "pace": 209.9,
+     "status": "off"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.0,
+     "pace": 3.7,
      "status": "won"
     },
     {
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 12 \u2013 LAR 9",
-   "clock": "3:26 - 3rd",
-   "elapsed": 0.693,
+   "clock": "15:00 - 4th",
+   "elapsed": 0.75,
    "status": "off",
    "legs": [
     {
@@ -175,7 +175,7 @@
      "cur": 2.0,
      "line": 7.5,
      "side": "Over",
-     "pace": 2.9,
+     "pace": 2.7,
      "status": "off"
     }
    ]
@@ -245,7 +245,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.0,
+     "pace": 3.7,
      "status": "won"
     }
    ]
