@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:55:01-04:00",
+ "updated": "2026-10-18T17:57:28-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 12 \u2013 LAR 9",
-   "clock": "4:50 - 3rd",
-   "elapsed": 0.669,
+   "clock": "3:26 - 3rd",
+   "elapsed": 0.693,
    "status": "off",
    "legs": [
     {
@@ -175,7 +175,7 @@
      "cur": 2.0,
      "line": 7.5,
      "side": "Over",
-     "pace": 3.0,
+     "pace": 2.9,
      "status": "off"
     }
    ]
