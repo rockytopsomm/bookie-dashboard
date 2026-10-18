@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-18T17:33:05-04:00",
+ "updated": "2026-10-18T17:38:10-04:00",
  "date": "2026-10-18",
  "bets": [
   {
    "bet_id": 10,
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
-   "score": "LAC 3 \u2013 KC 9",
-   "clock": "2:16 - 2nd",
-   "elapsed": 0.462,
+   "score": "LAC 3 \u2013 KC 16",
+   "clock": "1:49 - 2nd",
+   "elapsed": 0.47,
    "status": "on",
    "legs": [
     {
      "label": "Under 42.5",
-     "cur": 12,
+     "cur": 19,
      "line": 42.5,
      "side": "under",
-     "pace": 26.0,
+     "pace": 40.4,
      "status": "on"
     }
    ]
@@ -51,15 +51,15 @@
      "cur": 41.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 88.7,
+     "pace": 87.3,
      "status": "on"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
-     "cur": 1.0,
+     "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.2,
+     "pace": 4.3,
      "status": "won"
     },
     {
@@ -140,15 +140,15 @@
      "cur": 41.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 88.7,
+     "pace": 87.3,
      "status": "on"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
-     "cur": 1.0,
+     "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.2,
+     "pace": 4.3,
      "status": "won"
     },
     {
@@ -166,7 +166,7 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 9 \u2013 LAR 9",
-   "clock": "Halftime",
+   "clock": "15:00 - 3rd",
    "elapsed": 0.5,
    "status": "off",
    "legs": [
@@ -242,10 +242,10 @@
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
-     "cur": 1.0,
+     "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.2,
+     "pace": 4.3,
      "status": "won"
     }
    ]
