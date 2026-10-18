@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T17:38:10-04:00",
+ "updated": "2026-10-18T17:42:26-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 3 \u2013 KC 16",
-   "clock": "1:49 - 2nd",
-   "elapsed": 0.47,
+   "clock": "1:44 - 2nd",
+   "elapsed": 0.471,
    "status": "on",
    "legs": [
     {
@@ -16,7 +16,7 @@
      "cur": 19,
      "line": 42.5,
      "side": "under",
-     "pace": 40.4,
+     "pace": 40.3,
      "status": "on"
     }
    ]
@@ -51,7 +51,7 @@
      "cur": 41.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 87.3,
+     "pace": 87.0,
      "status": "on"
     },
     {
@@ -59,7 +59,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.3,
+     "pace": 4.2,
      "status": "won"
     },
     {
@@ -140,7 +140,7 @@
      "cur": 41.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 87.3,
+     "pace": 87.0,
      "status": "on"
     },
     {
@@ -148,7 +148,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.3,
+     "pace": 4.2,
      "status": "won"
     },
     {
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 9 \u2013 LAR 9",
-   "clock": "15:00 - 3rd",
-   "elapsed": 0.5,
+   "clock": "11:54 - 3rd",
+   "elapsed": 0.552,
    "status": "off",
    "legs": [
     {
@@ -175,7 +175,7 @@
      "cur": 2.0,
      "line": 7.5,
      "side": "Over",
-     "pace": 4.0,
+     "pace": 3.6,
      "status": "off"
     }
    ]
@@ -245,7 +245,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.3,
+     "pace": 4.2,
      "status": "won"
     }
    ]
