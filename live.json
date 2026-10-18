@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T09:25:45-04:00",
+ "updated": "2026-10-18T10:18:30-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -18,6 +18,254 @@
      "side": "under",
      "pace": null,
      "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 29,
+   "selection": "SGP5+: B.Allen U2.5 rec / G.Smith U213.5 pass / J.Herbert U192.5 pass / K.Walker anytime TD / C.Donaldson U10.5 rush",
+   "game": "5-leg multi-game",
+   "score": "",
+   "clock": "",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "B.Allen Under 2.5 receptions",
+     "cur": 0.0,
+     "line": 2.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "G.Smith Under 213.5 pass_yds",
+     "cur": 0.0,
+     "line": 213.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "J.Herbert Under 192.5 pass_yds",
+     "cur": 0.0,
+     "line": 192.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "K.Walker Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "C.Donaldson Under 10.5 rush_yds",
+     "cur": 0.0,
+     "line": 10.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 30,
+   "selection": "J.Taylor anytime_td Over 0.5",
+   "game": "Tennessee Titans @ Indianapolis Colts",
+   "score": "TEN 0 \u2013 IND 0",
+   "clock": "10/18 - 1:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "J.Taylor Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 31,
+   "selection": "D.Maye pass_yds Over 236.5",
+   "game": "New York Jets @ New England Patriots",
+   "score": "NYJ 0 \u2013 NE 0",
+   "clock": "10/18 - 1:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "D.Maye Over 236.5 pass_yds",
+     "cur": 0.0,
+     "line": 236.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 32,
+   "selection": "SGP5+: B.Allen U2.5 rec / G.Smith U213.5 pass / J.Herbert U192.5 pass / K.Walker anytime TD / C.Donaldson U10.5 rush",
+   "game": "5-leg multi-game",
+   "score": "",
+   "clock": "",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "B.Allen Under 2.5 receptions",
+     "cur": 0.0,
+     "line": 2.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "G.Smith Under 213.5 pass_yds",
+     "cur": 0.0,
+     "line": 213.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "J.Herbert Under 192.5 pass_yds",
+     "cur": 0.0,
+     "line": 192.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "K.Walker Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "C.Donaldson Under 10.5 rush_yds",
+     "cur": 0.0,
+     "line": 10.5,
+     "side": "Under",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 33,
+   "selection": "P.Nacua receptions Over 7.5",
+   "game": "Arizona Cardinals @ Los Angeles Rams",
+   "score": "ARI 0 \u2013 LAR 0",
+   "clock": "10/18 - 4:05 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "P.Nacua Over 7.5 receptions",
+     "cur": 0.0,
+     "line": 7.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 34,
+   "selection": "New Orleans Saints -1.5",
+   "game": "New Orleans Saints @ New York Giants",
+   "score": "NO 0 \u2013 NYG 0",
+   "clock": "10/18 - 1:00 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "New Orleans Saints -1.5",
+     "cur": 0,
+     "line": -1.5,
+     "side": "spread",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 35,
+   "selection": "TD5: J.Taylor ATD -270 / Bijan Robinson ATD -310 / K.Williams ATD -185 / J.Cook ATD -165 / K.Walker ATD -165",
+   "game": "5-leg multi-game",
+   "score": "",
+   "clock": "",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "J.Taylor Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "Bi.Robinson Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "K.Williams Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "J.Cook Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    },
+    {
+     "label": "K.Walker Over 0.5 anytime_td",
+     "cur": 0.0,
+     "line": 0.5,
+     "side": "Over",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  },
+  {
+   "bet_id": 36,
+   "selection": "M.Harrison rec_yds Over 16.5",
+   "game": "Houston Texans @ Jacksonville Jaguars",
+   "score": "HOU 7 \u2013 JAX 0",
+   "clock": "13:18 - 2nd",
+   "elapsed": 0.278,
+   "status": "off",
+   "legs": [
+    {
+     "label": "M.Harrison Over 16.5 rec_yds",
+     "cur": 0.0,
+     "line": 16.5,
+     "side": "Over",
+     "pace": 0.0,
+     "status": "off"
     }
    ]
   }
