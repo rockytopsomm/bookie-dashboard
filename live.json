@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:08:16-04:00",
+ "updated": "2026-10-18T13:14:58-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -43,7 +43,7 @@
      "cur": 32.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 488.1,
+     "pace": 285.9,
      "status": "off"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 11.0,
      "line": 10.5,
      "side": "Under",
-     "pace": null,
+     "pace": 151.7,
      "status": "lost"
     }
    ]
@@ -77,17 +77,17 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 0",
-   "clock": "12:50 - 1st",
-   "elapsed": 0.036,
-   "status": "pre",
+   "clock": "9:37 - 1st",
+   "elapsed": 0.09,
+   "status": "off",
    "legs": [
     {
      "label": "J.Taylor Over 0.5 anytime_td",
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     }
    ]
   },
@@ -95,9 +95,9 @@
    "bet_id": 31,
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
-   "score": "NYJ 0 \u2013 NE 0",
-   "clock": "11:04 - 1st",
-   "elapsed": 0.066,
+   "score": "NYJ 3 \u2013 NE 0",
+   "clock": "8:17 - 1st",
+   "elapsed": 0.112,
    "status": "off",
    "legs": [
     {
@@ -132,7 +132,7 @@
      "cur": 32.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 488.1,
+     "pace": 285.9,
      "status": "off"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 11.0,
      "line": 10.5,
      "side": "Under",
-     "pace": null,
+     "pace": 151.7,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 0 \u2013 NYG 0",
-   "clock": "12:58 - 1st",
-   "elapsed": 0.034,
+   "clock": "10:39 - 1st",
+   "elapsed": 0.072,
    "status": "off",
    "legs": [
     {
@@ -206,23 +206,23 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "pre",
+   "status": "off",
    "legs": [
     {
      "label": "J.Taylor Over 0.5 anytime_td",
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     },
     {
      "label": "Bi.Robinson Over 0.5 anytime_td",
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     },
     {
      "label": "K.Williams Over 0.5 anytime_td",
