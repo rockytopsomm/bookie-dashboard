@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:25:07-04:00",
+ "updated": "2026-10-18T16:29:55-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,9 +7,9 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 0 \u2013 KC 0",
-   "clock": "10/18 - 4:25 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "12:37 - 1st",
+   "elapsed": 0.04,
+   "status": "off",
    "legs": [
     {
      "label": "Under 42.5",
@@ -17,7 +17,7 @@
      "line": 42.5,
      "side": "under",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   },
@@ -67,7 +67,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 39.1,
+     "pace": 39.0,
      "status": "lost"
     }
    ]
@@ -156,7 +156,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 39.1,
+     "pace": 39.0,
      "status": "lost"
     }
    ]
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 3 \u2013 LAR 3",
-   "clock": "5:37 - 1st",
-   "elapsed": 0.156,
+   "clock": "4:58 - 1st",
+   "elapsed": 0.167,
    "status": "off",
    "legs": [
     {
@@ -185,9 +185,9 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 34 \u2013 NYG 27",
-   "clock": "0:06 - 4th",
-   "elapsed": 0.998,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "New Orleans Saints -1.5",
@@ -195,7 +195,7 @@
      "line": -1.5,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "won"
     }
    ]
   },
