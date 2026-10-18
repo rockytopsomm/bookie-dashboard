@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T21:18:24-04:00",
+ "updated": "2026-10-17T21:24:17-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -26,8 +26,8 @@
    "selection": "Kentucky Wildcats +6.5",
    "game": "Kentucky Wildcats @ Oklahoma Sooners",
    "score": "UK 7 \u2013 OU 10",
-   "clock": "14:13 - 3rd",
-   "elapsed": 0.513,
+   "clock": "10:57 - 3rd",
+   "elapsed": 0.568,
    "status": "on",
    "legs": [
     {
@@ -101,14 +101,14 @@
    "bet_id": 24,
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
-   "score": "TCU 14 \u2013 BAY 6",
-   "clock": "8:30 - 3rd",
-   "elapsed": 0.608,
+   "score": "TCU 17 \u2013 BAY 6",
+   "clock": "6:00 - 3rd",
+   "elapsed": 0.65,
    "status": "on",
    "legs": [
     {
      "label": "TCU Horned Frogs ML",
-     "cur": 8,
+     "cur": 11,
      "line": 0,
      "side": "ML",
      "pace": null,
@@ -140,8 +140,8 @@
    "selection": "Washington State Cougars ML",
    "game": "Washington State Cougars @ Oregon State Beavers",
    "score": "WSU 22 \u2013 ORST 41",
-   "clock": "5:36 - 4th",
-   "elapsed": 0.907,
+   "clock": "2:27 - 4th",
+   "elapsed": 0.959,
    "status": "off",
    "legs": [
     {
