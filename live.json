@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:04:29-04:00",
+ "updated": "2026-10-17T23:09:38-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Utah Utes -15.5",
    "game": "Utah Utes @ Colorado Buffaloes",
    "score": "UTAH 7 \u2013 COLO 0",
-   "clock": "4:00 - 1st",
-   "elapsed": 0.183,
+   "clock": "3:10 - 1st",
+   "elapsed": 0.197,
    "status": "off",
    "legs": [
     {
@@ -45,9 +45,9 @@
    "selection": "Houston Cougars -4.5",
    "game": "Oklahoma State Cowboys @ Houston Cougars",
    "score": "OKST 32 \u2013 HOU 35",
-   "clock": "2:00 - 4th",
-   "elapsed": 0.967,
-   "status": "off",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "lost",
    "legs": [
     {
      "label": "Houston Cougars -4.5",
@@ -55,7 +55,7 @@
      "line": -4.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "lost"
     }
    ]
   },
