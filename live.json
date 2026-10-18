@@ -1,5 +1,25 @@
 {
- "updated": "2026-10-18T09:21:45-04:00",
+ "updated": "2026-10-18T09:25:45-04:00",
  "date": "2026-10-18",
- "bets": []
+ "bets": [
+  {
+   "bet_id": 10,
+   "selection": "Under 42.5",
+   "game": "Los Angeles Chargers @ Kansas City Chiefs",
+   "score": "LAC 0 \u2013 KC 0",
+   "clock": "10/18 - 4:25 PM EDT",
+   "elapsed": 0.0,
+   "status": "pre",
+   "legs": [
+    {
+     "label": "Under 42.5",
+     "cur": 0,
+     "line": 42.5,
+     "side": "under",
+     "pace": null,
+     "status": "pre"
+    }
+   ]
+  }
+ ]
 }
