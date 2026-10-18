@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:37:59-04:00",
+ "updated": "2026-10-18T14:46:59-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -35,7 +35,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 4.0,
+     "pace": 3.8,
      "status": "off"
     },
     {
@@ -43,7 +43,7 @@
      "cur": 93.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 186.0,
+     "pace": 177.3,
      "status": "on"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 28.0,
+     "pace": 27.5,
      "status": "lost"
     }
    ]
@@ -76,9 +76,9 @@
    "bet_id": 30,
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
-   "score": "TEN 0 \u2013 IND 13",
-   "clock": "14:45 - 3rd",
-   "elapsed": 0.504,
+   "score": "TEN 3 \u2013 IND 13",
+   "clock": "12:43 - 3rd",
+   "elapsed": 0.538,
    "status": "off",
    "legs": [
     {
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 3 \u2013 NE 17",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "clock": "13:32 - 3rd",
+   "elapsed": 0.524,
    "status": "on",
    "legs": [
     {
@@ -105,7 +105,7 @@
      "cur": 130.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 260.0,
+     "pace": 247.9,
      "status": "on"
     }
    ]
@@ -124,7 +124,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 4.0,
+     "pace": 3.8,
      "status": "off"
     },
     {
@@ -132,7 +132,7 @@
      "cur": 93.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 186.0,
+     "pace": 177.3,
      "status": "on"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 28.0,
+     "pace": 27.5,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 10 \u2013 NYG 10",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "clock": "14:30 - 3rd",
+   "elapsed": 0.508,
    "status": "off",
    "legs": [
     {
