@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:27:24-04:00",
+ "updated": "2026-10-18T14:34:06-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -43,7 +43,7 @@
      "cur": 93.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 188.1,
+     "pace": 186.0,
      "status": "on"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 28.6,
+     "pace": 28.0,
      "status": "lost"
     }
    ]
@@ -95,17 +95,17 @@
    "bet_id": 31,
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
-   "score": "NYJ 3 \u2013 NE 10",
-   "clock": "0:20 - 2nd",
-   "elapsed": 0.494,
+   "score": "NYJ 3 \u2013 NE 17",
+   "clock": "Halftime",
+   "elapsed": 0.5,
    "status": "on",
    "legs": [
     {
      "label": "D.Maye Over 236.5 pass_yds",
-     "cur": 121.0,
+     "cur": 130.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 244.7,
+     "pace": 260.0,
      "status": "on"
     }
    ]
@@ -132,7 +132,7 @@
      "cur": 93.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 188.1,
+     "pace": 186.0,
      "status": "on"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 28.6,
+     "pace": 28.0,
      "status": "lost"
     }
    ]
@@ -184,14 +184,14 @@
    "bet_id": 34,
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
-   "score": "NO 3 \u2013 NYG 10",
-   "clock": "0:39 - 2nd",
-   "elapsed": 0.489,
+   "score": "NO 10 \u2013 NYG 10",
+   "clock": "Halftime",
+   "elapsed": 0.5,
    "status": "off",
    "legs": [
     {
      "label": "New Orleans Saints -1.5",
-     "cur": -7,
+     "cur": 0,
      "line": -1.5,
      "side": "spread",
      "pace": null,
