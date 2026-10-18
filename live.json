@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:25:18-04:00",
+ "updated": "2026-10-18T14:27:24-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -35,7 +35,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 4.1,
+     "pace": 4.0,
      "status": "off"
     },
     {
@@ -43,7 +43,7 @@
      "cur": 93.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 189.0,
+     "pace": 188.1,
      "status": "on"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 28.8,
+     "pace": 28.6,
      "status": "lost"
     }
    ]
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 3 \u2013 NE 10",
-   "clock": "0:29 - 2nd",
-   "elapsed": 0.492,
+   "clock": "0:20 - 2nd",
+   "elapsed": 0.494,
    "status": "on",
    "legs": [
     {
@@ -105,7 +105,7 @@
      "cur": 121.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 246.0,
+     "pace": 244.7,
      "status": "on"
     }
    ]
@@ -124,7 +124,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 4.1,
+     "pace": 4.0,
      "status": "off"
     },
     {
@@ -132,7 +132,7 @@
      "cur": 93.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 189.0,
+     "pace": 188.1,
      "status": "on"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 28.8,
+     "pace": 28.6,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 3 \u2013 NYG 10",
-   "clock": "0:51 - 2nd",
-   "elapsed": 0.486,
+   "clock": "0:39 - 2nd",
+   "elapsed": 0.489,
    "status": "off",
    "legs": [
     {
