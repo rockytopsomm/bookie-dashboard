@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:33:15-04:00",
+ "updated": "2026-10-18T16:38:52-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,17 +7,17 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 0 \u2013 KC 3",
-   "clock": "11:20 - 1st",
-   "elapsed": 0.061,
-   "status": "off",
+   "clock": "9:21 - 1st",
+   "elapsed": 0.094,
+   "status": "on",
    "legs": [
     {
      "label": "Under 42.5",
      "cur": 3,
      "line": 42.5,
      "side": "under",
-     "pace": 49.1,
-     "status": "off"
+     "pace": 31.9,
+     "status": "on"
     }
    ]
   },
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 3 \u2013 LAR 3",
-   "clock": "4:09 - 1st",
-   "elapsed": 0.181,
+   "clock": "15:00 - 2nd",
+   "elapsed": 0.25,
    "status": "off",
    "legs": [
     {
