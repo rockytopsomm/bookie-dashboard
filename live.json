@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:47:29-04:00",
+ "updated": "2026-10-18T13:57:32-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -32,19 +32,19 @@
    "legs": [
     {
      "label": "B.Allen Under 2.5 receptions",
-     "cur": 1.0,
+     "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 3.5,
+     "pace": 5.7,
      "status": "off"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
-     "cur": 52.0,
+     "cur": 87.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 184.4,
-     "status": "on"
+     "pace": 246.0,
+     "status": "off"
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
@@ -67,7 +67,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 44.6,
+     "pace": 36.3,
      "status": "lost"
     }
    ]
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 7",
-   "clock": "11:07 - 2nd",
-   "elapsed": 0.315,
+   "clock": "8:36 - 2nd",
+   "elapsed": 0.357,
    "status": "off",
    "legs": [
     {
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 3 \u2013 NE 7",
-   "clock": "13:05 - 2nd",
-   "elapsed": 0.282,
+   "clock": "8:47 - 2nd",
+   "elapsed": 0.354,
    "status": "off",
    "legs": [
     {
@@ -105,7 +105,7 @@
      "cur": 42.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 149.0,
+     "pace": 118.8,
      "status": "off"
     }
    ]
@@ -121,19 +121,19 @@
    "legs": [
     {
      "label": "B.Allen Under 2.5 receptions",
-     "cur": 1.0,
+     "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 3.5,
+     "pace": 5.7,
      "status": "off"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
-     "cur": 52.0,
+     "cur": 87.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 184.4,
-     "status": "on"
+     "pace": 246.0,
+     "status": "off"
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
@@ -156,7 +156,7 @@
      "cur": 14.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 44.6,
+     "pace": 36.3,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 0 \u2013 NYG 7",
-   "clock": "11:10 - 2nd",
-   "elapsed": 0.314,
+   "clock": "6:51 - 2nd",
+   "elapsed": 0.386,
    "status": "off",
    "legs": [
     {
