@@ -1,23 +1,23 @@
 {
- "updated": "2026-10-18T17:42:26-04:00",
+ "updated": "2026-10-18T17:48:18-04:00",
  "date": "2026-10-18",
  "bets": [
   {
    "bet_id": 10,
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
-   "score": "LAC 3 \u2013 KC 16",
-   "clock": "1:44 - 2nd",
-   "elapsed": 0.471,
-   "status": "on",
+   "score": "LAC 3 \u2013 KC 19",
+   "clock": "0:02 - 2nd",
+   "elapsed": 0.499,
+   "status": "off",
    "legs": [
     {
      "label": "Under 42.5",
-     "cur": 19,
+     "cur": 22,
      "line": 42.5,
      "side": "under",
-     "pace": 40.3,
-     "status": "on"
+     "pace": 44.0,
+     "status": "off"
     }
    ]
   },
@@ -48,10 +48,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 41.0,
+     "cur": 45.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 87.0,
+     "pace": 90.1,
      "status": "on"
     },
     {
@@ -59,7 +59,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.2,
+     "pace": 4.0,
      "status": "won"
     },
     {
@@ -137,10 +137,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 41.0,
+     "cur": 45.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 87.0,
+     "pace": 90.1,
      "status": "on"
     },
     {
@@ -148,7 +148,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.2,
+     "pace": 4.0,
      "status": "won"
     },
     {
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 9 \u2013 LAR 9",
-   "clock": "11:54 - 3rd",
-   "elapsed": 0.552,
+   "clock": "7:07 - 3rd",
+   "elapsed": 0.631,
    "status": "off",
    "legs": [
     {
@@ -175,7 +175,7 @@
      "cur": 2.0,
      "line": 7.5,
      "side": "Over",
-     "pace": 3.6,
+     "pace": 3.2,
      "status": "off"
     }
    ]
@@ -245,7 +245,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 4.2,
+     "pace": 4.0,
      "status": "won"
     }
    ]
