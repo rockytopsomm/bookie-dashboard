@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:06:47-04:00",
+ "updated": "2026-10-18T13:08:16-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -28,23 +28,23 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "pre",
+   "status": "lost",
    "legs": [
     {
      "label": "B.Allen Under 2.5 receptions",
      "cur": 0.0,
      "line": 2.5,
      "side": "Under",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "on"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
      "cur": 32.0,
      "line": 213.5,
      "side": "Under",
-     "pace": null,
-     "status": "pre"
+     "pace": 488.1,
+     "status": "off"
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
@@ -64,11 +64,11 @@
     },
     {
      "label": "C.Donaldson Under 10.5 rush_yds",
-     "cur": 0.0,
+     "cur": 11.0,
      "line": 10.5,
      "side": "Under",
      "pace": null,
-     "status": "pre"
+     "status": "lost"
     }
    ]
   },
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 0",
-   "clock": "14:08 - 1st",
-   "elapsed": 0.014,
+   "clock": "12:50 - 1st",
+   "elapsed": 0.036,
    "status": "pre",
    "legs": [
     {
@@ -96,17 +96,17 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 0 \u2013 NE 0",
-   "clock": "12:24 - 1st",
-   "elapsed": 0.043,
-   "status": "pre",
+   "clock": "11:04 - 1st",
+   "elapsed": 0.066,
+   "status": "off",
    "legs": [
     {
      "label": "D.Maye Over 236.5 pass_yds",
      "cur": 0.0,
      "line": 236.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     }
    ]
   },
@@ -117,23 +117,23 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "pre",
+   "status": "lost",
    "legs": [
     {
      "label": "B.Allen Under 2.5 receptions",
      "cur": 0.0,
      "line": 2.5,
      "side": "Under",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "on"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
      "cur": 32.0,
      "line": 213.5,
      "side": "Under",
-     "pace": null,
-     "status": "pre"
+     "pace": 488.1,
+     "status": "off"
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
@@ -153,11 +153,11 @@
     },
     {
      "label": "C.Donaldson Under 10.5 rush_yds",
-     "cur": 0.0,
+     "cur": 11.0,
      "line": 10.5,
      "side": "Under",
      "pace": null,
-     "status": "pre"
+     "status": "lost"
     }
    ]
   },
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 0 \u2013 NYG 0",
-   "clock": "14:18 - 1st",
-   "elapsed": 0.012,
+   "clock": "12:58 - 1st",
+   "elapsed": 0.034,
    "status": "off",
    "legs": [
     {
