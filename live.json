@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:11:23-04:00",
+ "updated": "2026-10-18T16:13:03-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -36,14 +36,14 @@
      "line": 2.5,
      "side": "Under",
      "pace": 2.0,
-     "status": "on"
+     "status": "won"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
      "cur": 252.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 254.1,
+     "pace": 252.0,
      "status": "lost"
     },
     {
@@ -96,17 +96,17 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 19 \u2013 NE 26",
-   "clock": "0:30 - 4th",
-   "elapsed": 0.992,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "lost",
    "legs": [
     {
      "label": "D.Maye Over 236.5 pass_yds",
      "cur": 235.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 237.0,
-     "status": "on"
+     "pace": 235.0,
+     "status": "lost"
     }
    ]
   },
@@ -125,14 +125,14 @@
      "line": 2.5,
      "side": "Under",
      "pace": 2.0,
-     "status": "on"
+     "status": "won"
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
      "cur": 252.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 254.1,
+     "pace": 252.0,
      "status": "lost"
     },
     {
@@ -166,17 +166,17 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 0 \u2013 LAR 0",
-   "clock": "12:18 - 1st",
-   "elapsed": 0.045,
-   "status": "pre",
+   "clock": "11:07 - 1st",
+   "elapsed": 0.065,
+   "status": "off",
    "legs": [
     {
      "label": "P.Nacua Over 7.5 receptions",
      "cur": 0.0,
      "line": 7.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     }
    ]
   },
@@ -184,14 +184,14 @@
    "bet_id": 34,
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
-   "score": "NO 34 \u2013 NYG 24",
-   "clock": "2:09 - 4th",
-   "elapsed": 0.964,
+   "score": "NO 34 \u2013 NYG 27",
+   "clock": "2:04 - 4th",
+   "elapsed": 0.966,
    "status": "on",
    "legs": [
     {
      "label": "New Orleans Saints -1.5",
-     "cur": 10,
+     "cur": 7,
      "line": -1.5,
      "side": "spread",
      "pace": null,
@@ -229,8 +229,8 @@
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     },
     {
      "label": "J.Cook Over 0.5 anytime_td",
