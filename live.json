@@ -1,22 +1,22 @@
 {
- "updated": "2026-10-18T16:29:55-04:00",
+ "updated": "2026-10-18T16:33:15-04:00",
  "date": "2026-10-18",
  "bets": [
   {
    "bet_id": 10,
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
-   "score": "LAC 0 \u2013 KC 0",
-   "clock": "12:37 - 1st",
-   "elapsed": 0.04,
+   "score": "LAC 0 \u2013 KC 3",
+   "clock": "11:20 - 1st",
+   "elapsed": 0.061,
    "status": "off",
    "legs": [
     {
      "label": "Under 42.5",
-     "cur": 0,
+     "cur": 3,
      "line": 42.5,
      "side": "under",
-     "pace": null,
+     "pace": 49.1,
      "status": "off"
     }
    ]
@@ -51,16 +51,16 @@
      "cur": 0.0,
      "line": 192.5,
      "side": "Under",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "on"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     },
     {
      "label": "C.Donaldson Under 10.5 rush_yds",
@@ -140,16 +140,16 @@
      "cur": 0.0,
      "line": 192.5,
      "side": "Under",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "on"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     },
     {
      "label": "C.Donaldson Under 10.5 rush_yds",
@@ -166,8 +166,8 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 3 \u2013 LAR 3",
-   "clock": "4:58 - 1st",
-   "elapsed": 0.167,
+   "clock": "4:09 - 1st",
+   "elapsed": 0.181,
    "status": "off",
    "legs": [
     {
@@ -237,16 +237,16 @@
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 0.0,
      "line": 0.5,
      "side": "Over",
-     "pace": null,
-     "status": "pre"
+     "pace": 0.0,
+     "status": "off"
     }
    ]
   },
