@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T19:17:31-04:00",
+ "updated": "2026-10-18T19:23:59-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 6 \u2013 KC 22",
-   "clock": "1:59 - 4th",
-   "elapsed": 0.967,
+   "clock": "0:58 - 4th",
+   "elapsed": 0.984,
    "status": "on",
    "legs": [
     {
@@ -16,7 +16,7 @@
      "cur": 28,
      "line": 42.5,
      "side": "under",
-     "pace": 29.0,
+     "pace": 28.5,
      "status": "on"
     }
    ]
@@ -48,18 +48,18 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 185.0,
+     "cur": 204.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 191.3,
-     "status": "on"
+     "pace": 207.3,
+     "status": "lost"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.1,
+     "pace": 2.0,
      "status": "won"
     },
     {
@@ -137,18 +137,18 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 185.0,
+     "cur": 204.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 191.3,
-     "status": "on"
+     "pace": 207.3,
+     "status": "lost"
     },
     {
      "label": "K.Walker Over 0.5 anytime_td",
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.1,
+     "pace": 2.0,
      "status": "won"
     },
     {
@@ -245,7 +245,7 @@
      "cur": 2.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 2.1,
+     "pace": 2.0,
      "status": "won"
     }
    ]
