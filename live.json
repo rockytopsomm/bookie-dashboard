@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-17T22:34:39-04:00",
+ "updated": "2026-10-17T22:42:05-04:00",
  "date": "2026-10-17",
  "bets": [
   {
    "bet_id": 15,
    "selection": "Utah Utes -15.5",
    "game": "Utah Utes @ Colorado Buffaloes",
-   "score": "UTAH 0 \u2013 COLO 0",
-   "clock": "12:39 - 1st",
-   "elapsed": 0.039,
+   "score": "UTAH 6 \u2013 COLO 0",
+   "clock": "9:39 - 1st",
+   "elapsed": 0.089,
    "status": "off",
    "legs": [
     {
      "label": "Utah Utes -15.5",
-     "cur": 0,
+     "cur": 6,
      "line": -15.5,
      "side": "spread",
      "pace": null,
@@ -26,9 +26,9 @@
    "selection": "Kentucky Wildcats +6.5",
    "game": "Kentucky Wildcats @ Oklahoma Sooners",
    "score": "UK 21 \u2013 OU 13",
-   "clock": "1:11 - 4th",
-   "elapsed": 0.98,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "Kentucky Wildcats +6.5",
@@ -36,7 +36,7 @@
      "line": 6.5,
      "side": "spread",
      "pace": null,
-     "status": "on"
+     "status": "won"
     }
    ]
   },
@@ -44,18 +44,18 @@
    "bet_id": 19,
    "selection": "Houston Cougars -4.5",
    "game": "Oklahoma State Cowboys @ Houston Cougars",
-   "score": "OKST 25 \u2013 HOU 28",
-   "clock": "11:52 - 4th",
-   "elapsed": 0.802,
-   "status": "off",
+   "score": "OKST 25 \u2013 HOU 35",
+   "clock": "9:48 - 4th",
+   "elapsed": 0.837,
+   "status": "on",
    "legs": [
     {
      "label": "Houston Cougars -4.5",
-     "cur": 3,
+     "cur": 10,
      "line": -4.5,
      "side": "spread",
      "pace": null,
-     "status": "off"
+     "status": "on"
     }
    ]
   },
@@ -102,9 +102,9 @@
    "selection": "TCU Horned Frogs ML",
    "game": "TCU Horned Frogs @ Baylor Bears",
    "score": "TCU 17 \u2013 BAY 6",
-   "clock": "1:08 - 4th",
-   "elapsed": 0.981,
-   "status": "on",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "TCU Horned Frogs ML",
@@ -112,7 +112,7 @@
      "line": 0,
      "side": "ML",
      "pace": null,
-     "status": "on"
+     "status": "won"
     }
    ]
   },
