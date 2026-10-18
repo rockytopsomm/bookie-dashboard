@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T18:44:49-04:00",
+ "updated": "2026-10-18T18:50:18-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Under 42.5",
    "game": "Los Angeles Chargers @ Kansas City Chiefs",
    "score": "LAC 6 \u2013 KC 19",
-   "clock": "14:41 - 4th",
-   "elapsed": 0.755,
+   "clock": "13:46 - 4th",
+   "elapsed": 0.771,
    "status": "on",
    "legs": [
     {
@@ -16,7 +16,7 @@
      "cur": 25,
      "line": 42.5,
      "side": "under",
-     "pace": 33.1,
+     "pace": 32.4,
      "status": "on"
     }
    ]
@@ -48,10 +48,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 132.0,
+     "cur": 148.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 174.8,
+     "pace": 192.1,
      "status": "on"
     },
     {
@@ -137,10 +137,10 @@
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
-     "cur": 132.0,
+     "cur": 148.0,
      "line": 192.5,
      "side": "Under",
-     "pace": 174.8,
+     "pace": 192.1,
      "status": "on"
     },
     {
@@ -166,16 +166,16 @@
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
    "score": "ARI 15 \u2013 LAR 9",
-   "clock": "1:50 - 4th",
-   "elapsed": 0.969,
+   "clock": "0:52 - 4th",
+   "elapsed": 0.986,
    "status": "off",
    "legs": [
     {
      "label": "P.Nacua Over 7.5 receptions",
-     "cur": 5.0,
+     "cur": 6.0,
      "line": 7.5,
      "side": "Over",
-     "pace": 5.2,
+     "pace": 6.1,
      "status": "off"
     }
    ]
