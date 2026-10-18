@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:13:03-04:00",
+ "updated": "2026-10-18T16:17:16-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -67,7 +67,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 40.4,
+     "pace": 40.2,
      "status": "lost"
     }
    ]
@@ -156,7 +156,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 40.4,
+     "pace": 40.2,
      "status": "lost"
     }
    ]
@@ -165,9 +165,9 @@
    "bet_id": 33,
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
-   "score": "ARI 0 \u2013 LAR 0",
-   "clock": "11:07 - 1st",
-   "elapsed": 0.065,
+   "score": "ARI 0 \u2013 LAR 3",
+   "clock": "9:41 - 1st",
+   "elapsed": 0.089,
    "status": "off",
    "legs": [
     {
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 34 \u2013 NYG 27",
-   "clock": "2:04 - 4th",
-   "elapsed": 0.966,
+   "clock": "1:51 - 4th",
+   "elapsed": 0.969,
    "status": "on",
    "legs": [
     {
