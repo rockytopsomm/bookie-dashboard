@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:56:49-04:00",
+ "updated": "2026-10-18T15:58:12-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -67,7 +67,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 43.4,
+     "pace": 43.3,
      "status": "lost"
     }
    ]
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 23 \u2013 IND 20",
-   "clock": "1:57 - 4th",
-   "elapsed": 0.968,
+   "clock": "1:52 - 4th",
+   "elapsed": 0.969,
    "status": "won",
    "legs": [
     {
@@ -156,7 +156,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 43.4,
+     "pace": 43.3,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 34 \u2013 NYG 18",
-   "clock": "6:08 - 4th",
-   "elapsed": 0.898,
+   "clock": "5:54 - 4th",
+   "elapsed": 0.902,
    "status": "on",
    "legs": [
     {
