@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T13:22:22-04:00",
+ "updated": "2026-10-18T13:29:31-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -43,8 +43,8 @@
      "cur": 32.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 213.7,
-     "status": "off"
+     "pace": 180.6,
+     "status": "on"
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
@@ -67,7 +67,7 @@
      "cur": 11.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 67.6,
+     "pace": 51.2,
      "status": "lost"
     }
    ]
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 0",
-   "clock": "5:26 - 1st",
-   "elapsed": 0.159,
+   "clock": "2:36 - 1st",
+   "elapsed": 0.207,
    "status": "off",
    "legs": [
     {
@@ -96,16 +96,16 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 3 \u2013 NE 0",
-   "clock": "6:01 - 1st",
-   "elapsed": 0.15,
+   "clock": "4:22 - 1st",
+   "elapsed": 0.177,
    "status": "off",
    "legs": [
     {
      "label": "D.Maye Over 236.5 pass_yds",
-     "cur": 0.0,
+     "cur": 9.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 0.0,
+     "pace": 50.8,
      "status": "off"
     }
    ]
@@ -132,8 +132,8 @@
      "cur": 32.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 213.7,
-     "status": "off"
+     "pace": 180.6,
+     "status": "on"
     },
     {
      "label": "J.Herbert Under 192.5 pass_yds",
@@ -156,7 +156,7 @@
      "cur": 11.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 67.6,
+     "pace": 51.2,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 0 \u2013 NYG 7",
-   "clock": "5:14 - 1st",
-   "elapsed": 0.163,
+   "clock": "2:07 - 1st",
+   "elapsed": 0.215,
    "status": "off",
    "legs": [
     {
