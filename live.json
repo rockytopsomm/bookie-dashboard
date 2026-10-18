@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:50:58-04:00",
+ "updated": "2026-10-18T15:56:49-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -43,7 +43,7 @@
      "cur": 212.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 226.2,
+     "pace": 219.3,
      "status": "off"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 44.2,
+     "pace": 43.4,
      "status": "lost"
     }
    ]
@@ -76,9 +76,9 @@
    "bet_id": 30,
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
-   "score": "TEN 20 \u2013 IND 20",
-   "clock": "3:44 - 4th",
-   "elapsed": 0.938,
+   "score": "TEN 23 \u2013 IND 20",
+   "clock": "1:57 - 4th",
+   "elapsed": 0.968,
    "status": "won",
    "legs": [
     {
@@ -86,7 +86,7 @@
      "cur": 1.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 1.1,
+     "pace": 1.0,
      "status": "won"
     }
    ]
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 16 \u2013 NE 23",
-   "clock": "3:46 - 4th",
-   "elapsed": 0.937,
+   "clock": "2:00 - 4th",
+   "elapsed": 0.967,
    "status": "on",
    "legs": [
     {
@@ -105,7 +105,7 @@
      "cur": 235.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 250.7,
+     "pace": 243.1,
      "status": "on"
     }
    ]
@@ -132,7 +132,7 @@
      "cur": 212.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 226.2,
+     "pace": 219.3,
      "status": "off"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 44.2,
+     "pace": 43.4,
      "status": "lost"
     }
    ]
@@ -184,14 +184,14 @@
    "bet_id": 34,
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
-   "score": "NO 34 \u2013 NYG 10",
-   "clock": "7:04 - 4th",
-   "elapsed": 0.882,
+   "score": "NO 34 \u2013 NYG 18",
+   "clock": "6:08 - 4th",
+   "elapsed": 0.898,
    "status": "on",
    "legs": [
     {
      "label": "New Orleans Saints -1.5",
-     "cur": 24,
+     "cur": 16,
      "line": -1.5,
      "side": "spread",
      "pace": null,
@@ -213,7 +213,7 @@
      "cur": 1.0,
      "line": 0.5,
      "side": "Over",
-     "pace": 1.1,
+     "pace": 1.0,
      "status": "won"
     },
     {
