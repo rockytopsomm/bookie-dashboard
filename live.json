@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T14:34:06-04:00",
+ "updated": "2026-10-18T14:37:59-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 13",
-   "clock": "Halftime",
-   "elapsed": 0.5,
+   "clock": "14:45 - 3rd",
+   "elapsed": 0.504,
    "status": "off",
    "legs": [
     {
