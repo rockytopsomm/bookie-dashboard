@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T15:13:52-04:00",
+ "updated": "2026-10-18T15:18:32-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -35,7 +35,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 2.9,
+     "pace": 2.7,
      "status": "off"
     },
     {
@@ -43,7 +43,7 @@
      "cur": 168.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 241.9,
+     "pace": 224.0,
      "status": "off"
     },
     {
@@ -67,7 +67,7 @@
      "cur": 31.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 47.3,
+     "pace": 45.7,
      "status": "lost"
     }
    ]
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 6 \u2013 IND 13",
-   "clock": "1:21 - 3rd",
-   "elapsed": 0.728,
+   "clock": "14:44 - 4th",
+   "elapsed": 0.754,
    "status": "off",
    "legs": [
     {
@@ -96,16 +96,16 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 13 \u2013 NE 17",
-   "clock": "3:20 - 3rd",
-   "elapsed": 0.694,
+   "clock": "15:00 - 4th",
+   "elapsed": 0.75,
    "status": "off",
    "legs": [
     {
      "label": "D.Maye Over 236.5 pass_yds",
-     "cur": 151.0,
+     "cur": 174.0,
      "line": 236.5,
      "side": "Over",
-     "pace": 217.4,
+     "pace": 232.0,
      "status": "off"
     }
    ]
@@ -124,7 +124,7 @@
      "cur": 2.0,
      "line": 2.5,
      "side": "Under",
-     "pace": 2.9,
+     "pace": 2.7,
      "status": "off"
     },
     {
@@ -132,7 +132,7 @@
      "cur": 168.0,
      "line": 213.5,
      "side": "Under",
-     "pace": 241.9,
+     "pace": 224.0,
      "status": "off"
     },
     {
@@ -156,7 +156,7 @@
      "cur": 31.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 47.3,
+     "pace": 45.7,
      "status": "lost"
     }
    ]
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 24 \u2013 NYG 10",
-   "clock": "5:43 - 3rd",
-   "elapsed": 0.655,
+   "clock": "4:16 - 3rd",
+   "elapsed": 0.679,
    "status": "on",
    "legs": [
     {
