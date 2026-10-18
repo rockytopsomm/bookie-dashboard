@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T10:54:06-04:00",
+ "updated": "2026-10-18T13:06:47-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -40,7 +40,7 @@
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
-     "cur": 0.0,
+     "cur": 32.0,
      "line": 213.5,
      "side": "Under",
      "pace": null,
@@ -77,8 +77,8 @@
    "selection": "J.Taylor anytime_td Over 0.5",
    "game": "Tennessee Titans @ Indianapolis Colts",
    "score": "TEN 0 \u2013 IND 0",
-   "clock": "10/18 - 1:00 PM EDT",
-   "elapsed": 0.0,
+   "clock": "14:08 - 1st",
+   "elapsed": 0.014,
    "status": "pre",
    "legs": [
     {
@@ -96,8 +96,8 @@
    "selection": "D.Maye pass_yds Over 236.5",
    "game": "New York Jets @ New England Patriots",
    "score": "NYJ 0 \u2013 NE 0",
-   "clock": "10/18 - 1:00 PM EDT",
-   "elapsed": 0.0,
+   "clock": "12:24 - 1st",
+   "elapsed": 0.043,
    "status": "pre",
    "legs": [
     {
@@ -129,7 +129,7 @@
     },
     {
      "label": "G.Smith Under 213.5 pass_yds",
-     "cur": 0.0,
+     "cur": 32.0,
      "line": 213.5,
      "side": "Under",
      "pace": null,
@@ -185,9 +185,9 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 0 \u2013 NYG 0",
-   "clock": "10/18 - 1:00 PM EDT",
-   "elapsed": 0.0,
-   "status": "pre",
+   "clock": "14:18 - 1st",
+   "elapsed": 0.012,
+   "status": "off",
    "legs": [
     {
      "label": "New Orleans Saints -1.5",
@@ -195,7 +195,7 @@
      "line": -1.5,
      "side": "spread",
      "pace": null,
-     "status": "pre"
+     "status": "off"
     }
    ]
   },
@@ -254,18 +254,18 @@
    "bet_id": 36,
    "selection": "M.Harrison rec_yds Over 16.5",
    "game": "Houston Texans @ Jacksonville Jaguars",
-   "score": "HOU 10 \u2013 JAX 7",
-   "clock": "1:03 - 2nd",
-   "elapsed": 0.482,
-   "status": "on",
+   "score": "HOU 34 \u2013 JAX 31",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
    "legs": [
     {
      "label": "M.Harrison Over 16.5 rec_yds",
-     "cur": 14.0,
+     "cur": 34.0,
      "line": 16.5,
      "side": "Over",
-     "pace": 29.0,
-     "status": "on"
+     "pace": 34.0,
+     "status": "won"
     }
    ]
   }
