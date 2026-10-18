@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-17T23:38:12-04:00",
+ "updated": "2026-10-17T23:46:31-04:00",
  "date": "2026-10-17",
  "bets": [
   {
@@ -7,8 +7,8 @@
    "selection": "Utah Utes -15.5",
    "game": "Utah Utes @ Colorado Buffaloes",
    "score": "UTAH 10 \u2013 COLO 0",
-   "clock": "7:52 - 2nd",
-   "elapsed": 0.369,
+   "clock": "4:00 - 2nd",
+   "elapsed": 0.433,
    "status": "off",
    "legs": [
     {
@@ -132,6 +132,25 @@
      "side": "ML",
      "pace": null,
      "status": "lost"
+    }
+   ]
+  },
+  {
+   "bet_id": 28,
+   "selection": "BYU Cougars ML",
+   "game": "Notre Dame Fighting Irish @ BYU Cougars",
+   "score": "ND 24 \u2013 BYU 28",
+   "clock": "Final",
+   "elapsed": 1.0,
+   "status": "won",
+   "legs": [
+    {
+     "label": "BYU Cougars ML",
+     "cur": 4,
+     "line": 0,
+     "side": "ML",
+     "pace": null,
+     "status": "won"
     }
    ]
   }
