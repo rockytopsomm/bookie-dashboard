@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-18T16:17:16-04:00",
+ "updated": "2026-10-18T16:25:07-04:00",
  "date": "2026-10-18",
  "bets": [
   {
@@ -67,7 +67,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 40.2,
+     "pace": 39.1,
      "status": "lost"
     }
    ]
@@ -156,7 +156,7 @@
      "cur": 39.0,
      "line": 10.5,
      "side": "Under",
-     "pace": 40.2,
+     "pace": 39.1,
      "status": "lost"
     }
    ]
@@ -165,9 +165,9 @@
    "bet_id": 33,
    "selection": "P.Nacua receptions Over 7.5",
    "game": "Arizona Cardinals @ Los Angeles Rams",
-   "score": "ARI 0 \u2013 LAR 3",
-   "clock": "9:41 - 1st",
-   "elapsed": 0.089,
+   "score": "ARI 3 \u2013 LAR 3",
+   "clock": "5:37 - 1st",
+   "elapsed": 0.156,
    "status": "off",
    "legs": [
     {
@@ -185,8 +185,8 @@
    "selection": "New Orleans Saints -1.5",
    "game": "New Orleans Saints @ New York Giants",
    "score": "NO 34 \u2013 NYG 27",
-   "clock": "1:51 - 4th",
-   "elapsed": 0.969,
+   "clock": "0:06 - 4th",
+   "elapsed": 0.998,
    "status": "on",
    "legs": [
     {
@@ -206,7 +206,7 @@
    "score": "",
    "clock": "",
    "elapsed": 0.0,
-   "status": "off",
+   "status": "lost",
    "legs": [
     {
      "label": "J.Taylor Over 0.5 anytime_td",
@@ -222,7 +222,7 @@
      "line": 0.5,
      "side": "Over",
      "pace": 0.0,
-     "status": "off"
+     "status": "lost"
     },
     {
      "label": "K.Williams Over 0.5 anytime_td",
